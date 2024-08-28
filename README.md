@@ -1,6 +1,4 @@
-::: {style="text-align: center;"}
 <img src="title.png" width="500"/>
-:::
 
 # EPIB 704 -- Doctoral Level Epidemiologic Methods I
 
