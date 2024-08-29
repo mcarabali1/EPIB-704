@@ -52,7 +52,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 | **Date**           | **Topic**                                                                                     | **Slides**                                                                                                                                    |
 |------------------|-------------------------------|-----------------------|
-| August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            | [Lecture 01](https://github.com/mcarabali1/EPIB-704/blob/d1841229d7dc71a35e93eea7fa45ad3dea7821c4/slides/lecture%201/html/L1_EPIB704_v0.html) |
+| August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            | [Lecture 01](https://github.com/mcarabali1/EPIB-704/blob/main/slides/lecture%201/L1_Introduction%20to%20EPIB%20704.pdf) |
 | September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |                                                                                                                                               |
 | September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       |                                                                                                                                               |
 | September 10, 2024 | Lecture 04 - Measures of Occurrence                                                           |                                                                                                                                               |
