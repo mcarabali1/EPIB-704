@@ -79,4 +79,4 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 | November 28, 2024  | Lecture 25 - Hierarchical models                                                              |                                                                                                                                               |
 | December 3, 2024   | Lecture 26 - Misc /Data visualizations                                                        |                                                                                                                                               |
 
-# 
+
