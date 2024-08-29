@@ -50,33 +50,33 @@ Attention will also be given to exploratory data analysis (tabular and graphical
 
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Here you will find a list of the (tentative) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
-| **Date**           | **Topic**                                                                                     | **Slides** |
-|------------|----------------------------------|--------------------------|
-| August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            |            |
-| September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |            |
-| September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       |            |
-| September 10, 2024 | Lecture 04 - Measures of Occurrence                                                           |            |
-| September 12, 2024 | Lecture 05 - Measures of Association                                                          |            |
-| September 17, 2024 | Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis                |            |
-| September 19, 2024 | Lecture 07 - Confounding (I)                                                                  |            |
-| September 24, 2024 | Lecture 08 - Confounding (II)                                                                 |            |
-| September 26, 2024 | Lecture 09 - Linear regression (with an introduction to Bayesian models)                      |            |
-| October 1, 2024    | Lecture 10 - Logistic regression 1 - introduction                                             |            |
-| October 3, 2024    | Lecture 11 - Logistic regression part 2 - worked Bayesian example                             |            |
-| October 8, 2024    | Lecture 12 - Logistic vs binomial regressions and other alternatives to model binary outcomes |            |
-| October 10, 2024   | Lecture 13 - Effect Measure Modification & Interaction (I)                                    |            |
-| October 22, 2024   | Lecture 14 - Effect Measure Modification & Interaction (II)                                   |            |
-| October 24, 2024   | Lecture 15 - Treatment effects                                                                |            |
-| October 29, 2024   | Lecture 16 - Randomized clinical trials (RCTs)                                                |            |
-| October 31, 2024   | Lecture 17 - Propensity score                                                                 |            |
-| November 5, 2024   | Lecture 18 - Matching and conditional Logistic Regression                                     |            |
-| November 7, 2024   | Lecture 19 - Selection bias - core concepts                                                   |            |
-| November 12, 2024  | Lecture 20 - Measurement error - Core concepts                                                |            |
-| November 14, 2024  | Lecture 21 - Target trial                                                                     |            |
-| November 19, 2024  | Lecture 22 - Poisson Regression                                                               |            |
-| November 21, 2024  | Lecture 23 - Model building/selection                                                         |            |
-| November 26, 2024  | Lecture 24 - Quasi-experimental designs                                                       |            |
-| November 28, 2024  | Lecture 25 - Hierarchical models                                                              |            |
-| December 3, 2024   | Lecture 26 - Misc /Data visualizations                                                        |            |
+| **Date**           | **Topic**                                                                                     | **Slides**                                                                                                                                    |
+|------------------|-------------------------------|-----------------------|
+| August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            | [Lecture 01](https://github.com/mcarabali1/EPIB-704/blob/d1841229d7dc71a35e93eea7fa45ad3dea7821c4/slides/lecture%201/html/L1_EPIB704_v0.html) |
+| September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |                                                                                                                                               |
+| September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       |                                                                                                                                               |
+| September 10, 2024 | Lecture 04 - Measures of Occurrence                                                           |                                                                                                                                               |
+| September 12, 2024 | Lecture 05 - Measures of Association                                                          |                                                                                                                                               |
+| September 17, 2024 | Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis                |                                                                                                                                               |
+| September 19, 2024 | Lecture 07 - Confounding (I)                                                                  |                                                                                                                                               |
+| September 24, 2024 | Lecture 08 - Confounding (II)                                                                 |                                                                                                                                               |
+| September 26, 2024 | Lecture 09 - Linear regression (with an introduction to Bayesian models)                      |                                                                                                                                               |
+| October 1, 2024    | Lecture 10 - Logistic regression 1 - introduction                                             |                                                                                                                                               |
+| October 3, 2024    | Lecture 11 - Logistic regression part 2 - worked Bayesian example                             |                                                                                                                                               |
+| October 8, 2024    | Lecture 12 - Logistic vs binomial regressions and other alternatives to model binary outcomes |                                                                                                                                               |
+| October 10, 2024   | Lecture 13 - Effect Measure Modification & Interaction (I)                                    |                                                                                                                                               |
+| October 22, 2024   | Lecture 14 - Effect Measure Modification & Interaction (II)                                   |                                                                                                                                               |
+| October 24, 2024   | Lecture 15 - Treatment effects                                                                |                                                                                                                                               |
+| October 29, 2024   | Lecture 16 - Randomized clinical trials (RCTs)                                                |                                                                                                                                               |
+| October 31, 2024   | Lecture 17 - Propensity score                                                                 |                                                                                                                                               |
+| November 5, 2024   | Lecture 18 - Matching and conditional Logistic Regression                                     |                                                                                                                                               |
+| November 7, 2024   | Lecture 19 - Selection bias - core concepts                                                   |                                                                                                                                               |
+| November 12, 2024  | Lecture 20 - Measurement error - Core concepts                                                |                                                                                                                                               |
+| November 14, 2024  | Lecture 21 - Target trial                                                                     |                                                                                                                                               |
+| November 19, 2024  | Lecture 22 - Poisson Regression                                                               |                                                                                                                                               |
+| November 21, 2024  | Lecture 23 - Model building/selection                                                         |                                                                                                                                               |
+| November 26, 2024  | Lecture 24 - Quasi-experimental designs                                                       |                                                                                                                                               |
+| November 28, 2024  | Lecture 25 - Hierarchical models                                                              |                                                                                                                                               |
+| December 3, 2024   | Lecture 26 - Misc /Data visualizations                                                        |                                                                                                                                               |
 
 # 
