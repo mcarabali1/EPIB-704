@@ -51,7 +51,7 @@ Attention will also be given to exploratory data analysis (tabular and graphical
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Here you will find a list of the (tentative) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
 | **Date**           | **Topic**                                                                                     | **Slides**                                                                                                                                                                                                                                 |
-|----------------|----------------|----------------------------------------|
+|--------------------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            | [pdf](https://github.com/mcarabali1/EPIB-704/blob/main/slides/pdfs/L1_Introduction%20to%20EPIB%20704.pdf), [html](https://rawcdn.githack.com/mcarabali1/EPIB-704/1032184941cf361de4ad9b1774a62b21d8e972b1/slides/htmls/L1_EPIB704_v0.html) |
 | September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |                                                                                                                                                                                                                                            |
 | September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       |                                                                                                                                                                                                                                            |
@@ -83,15 +83,10 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 Data for assignments can be found in the [/EPIB-704/tree/main/data folder](https://github.com/mcarabali1/EPIB-704/tree/main/data). To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following code:
 
-```{r, eval = FALSE}
+1\. Save the raw url file into an R object (just change the name of the file (i.e. the Plato_FDA_470.csv part) to the url shown below if needed)
 
-# Step 1. Save the raw url file into an R object (just change the name of the file (i.e. the Plato_FDA_470.csv part) to the url shown below if needed)
+urlfile = "<https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv>"
 
-urlfile = "https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv"
+2\. Read the data using a special function tailored for the file type.
 
-# Step 2. Read the data using a special function tailored for the file type.
-
-mydata<-read.csv(url(urlfile))
-
-
-```
+mydata\<-read.csv(url(urlfile))
