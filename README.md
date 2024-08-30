@@ -1,18 +1,18 @@
 <img src="title.png" width="500"/>
 
-# EPIB 704 -- Doctoral Level Epidemiologic Methods I
+# EPIB 704: Doctoral Level Epidemiologic Methods I
 
-**Instructor:** Mabel Carabali
+**Instructor:** Mabel Carabali.
 
 **Schedule:** Tuesdays and Thursdays (08:35 AM -10:25 AM).
 
--   First class: August 29th, 2024.
--   Last class: December 3rd, 2024.
+-   First class: August 29^th^, 2024.
+-   Last class: December 3^rd^, 2024.
 
 **Teaching Assistants:**
 
--   Rina Lall
--   Edgar Ortiz-Brizuela
+-   Rina Lall.
+-   Edgar Ortiz-Brizuela.
 
 # Table of Contents
 
@@ -30,7 +30,7 @@ The overarching goal is to establish and strengthen the foundation of epidemiolo
 
 ## Objective
 
-The objective of EPIB 704 is to provide students with a deeper theoretical understanding of the foundations of epidemiology and empirical tools for data handling, data analysis, critical thinking and interpretation of the epidemiological inference. EPIB 704 will equip student with strategies to 1) identify common threats of the validity or biases, 2) identify and interpret their effects in the measurement of associations, and 2) identify opportunities to investigate, correct and address these biases.
+The objective of EPIB 704 is to provide students with a deeper theoretical understanding of the foundations of epidemiology and empirical tools for data handling, data analysis, critical thinking and interpretation of the epidemiological inference. EPIB 704 will equip student with strategies to 1) identify common threats of the validity or biases, 2) identify and interpret their effects in the measurement of associations, and 3) identify opportunities to investigate, correct and address these biases.
 
 ## Instructional Methods
 
@@ -57,7 +57,7 @@ Attention will also be given to exploratory data analysis (tabular and graphical
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Here you will find a list of the (tentative) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
 | **Date**           | **Topic**                                                                                     | **Slides**                                                                                                                                                                                                                           |
-|--------------|-------------------------------------------|-------------------------------------------|
+|----------------|----------------------------------------|----------------------------|
 | August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            | [pdf](https://github.com/mcarabali1/EPIB-704/blob/main/slides/L1_Introduction%20to%20EPIB%20704.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/dea1f1d501ed9f457a65e08c42fd6901d9f7a594/L1_EPIB704_v0.html) |
 | September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |                                                                                                                                                                                                                                      |
 | September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       |                                                                                                                                                                                                                                      |
@@ -87,7 +87,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 # Data for Assignments {#data-for-assignments}
 
-Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following code:
+Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following instructions:
 
 1\. Save the raw url file into an R object (just change the name of the file (i.e. the Plato_FDA_470.csv part) to the url shown below if needed)
 
