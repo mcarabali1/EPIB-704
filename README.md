@@ -87,7 +87,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 # Data for Assignments {#data-for-assignments}
 
-Data for assignments can be found in the [/EPIB-704/tree/main/data folder](https://github.com/mcarabali1/EPIB-704/tree/main/data). To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following code:
+Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following code:
 
 1\. Save the raw url file into an R object (just change the name of the file (i.e. the Plato_FDA_470.csv part) to the url shown below if needed)
 
