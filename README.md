@@ -6,8 +6,8 @@
 
 **Schedule:** Tuesdays and Thursdays (08:35 AM -10:25 AM).
 
--   First class: August 29^th^, 2024.
--   Last class: December 3^rd^, 2024.
+-   First class: August 29th, 2024.
+-   Last class: December 3rd, 2024.
 
 **Teaching Assistants:**
 
@@ -28,7 +28,7 @@ The objective of EPIB 704 is to provide students with a deeper theoretical under
 
 ## Instructional Methods
 
-The course will have a "hands-on" approach whereby the various key statistical concepts covered will be illustrated by computer coding, the new calculus for modern epidemiologic methods. Counting has historically been the essential background to epidemiologic research and remains so in the 21^st^ century but is now often best accomplished by simulation and sampling of posterior probability distributions. Examples of the required computing code will be extensively provided.
+The course will have a "hands-on" approach whereby the various key statistical concepts covered will be illustrated by computer coding, the new calculus for modern epidemiologic methods. Counting has historically been the essential background to epidemiologic research and remains so in the 21st century but is now often best accomplished by simulation and sampling of posterior probability distributions. Examples of the required computing code will be extensively provided.
 
 Attention will also be given to exploratory data analysis (tabular and graphical), data interpretation, critical examination of assumptions and reproducible research. Students will focus mainly on cumulative incidence measures for categorical outcomes, with attention to model checking and screening for confounders and effect measure modifiers. Regression models covered will include linear, logistic, Poisson, survival, and meta-analytical models. Experimental and quasi-experimental designs will be discussed. Other topics that the course will touch on include attributable fractions, selection bias, sensitivity analyses, bootstrapping, matched data, missing data, and misclassified data.
 
