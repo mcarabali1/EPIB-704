@@ -81,12 +81,17 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 # Data for Assignments 
 
-Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following instructions:
+Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. 
+We have three options for you to import the assignments datasets into R:
 
-1\. Save the raw url file into an R object (just change the name of the file (i.e. the Plato_FDA_470.csv part) to the url shown below if needed)
+- Option 1: Install our epib.704 package:
+  - a) First, install the remotes package: `install.packages("remotes")`
+  - b) Then, install the epib.704.data package: `remotes::install_github("mcarabali1/epib.704.data")`
 
-urlfile = "<https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv>"
+- Option 2: Install them directly in R using their URL:
+  - a) Assign the df URL to an R object: `urlfile <- "https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv"`
+  - b) Import the df into R: `mydata <- read.csv(url(urlfile))`
 
-2\. Read the data using a special function tailored for the file type.
+- Option 3: Download the files directly from the repository onto your computer and import them into R.
 
-mydata\<-read.csv(url(urlfile))
+
