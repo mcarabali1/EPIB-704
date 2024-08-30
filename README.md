@@ -14,13 +14,7 @@
 -   Rina Lall.
 -   Edgar Ortiz-Brizuela.
 
-# Table of Contents
-
--   [Course Description](#course-description)
--   [Lecture Schedule and Slides](#lecture-schedule-and-slides)
--   [Data for Assignments](#data-for-assignments)
-
-# Course Description {#course-description}
+# Course Description
 
 This is a first semester doctoral level course in epidemiologic theory and the estimation of epidemiologic effect measures and their confidence intervals in a variety of different study designs. This course places an emphasis on causal inference concepts and its distinction from, and yet simultaneously dependency, on statistical models. The course will also emphasize the limitations of mainstream null hypothesis statistical significance (NHST) paradigm and encourage the recognition of the value of an estimation (Bayesian) paradigm for optimal inferences.
 
@@ -52,12 +46,12 @@ Attention will also be given to exploratory data analysis (tabular and graphical
 -   Free electronic versions of all these books are available online but, depending on your financial situation, it may be worthwhile for you to invest in your own copies.
 -   Other readings will be assigned each week from published journal articles.
 
-# Lecture Schedule and Slides {#lecture-schedule-and-slides}
+# Lecture Schedule and Slides 
 
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Here you will find a list of the (tentative) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
 | **Date**           | **Topic**                                                                                     | **Slides**                                                                                                                                                                                                                           |
-|----------------|----------------------------------------|----------------------------|
+|-----------------|--------------------------------|-----------------------|
 | August 29, 2024    | Lecture 01 - Introduction EPIB 704                                                            | [pdf](https://github.com/mcarabali1/EPIB-704/blob/main/slides/L1_Introduction%20to%20EPIB%20704.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/dea1f1d501ed9f457a65e08c42fd6901d9f7a594/L1_EPIB704_v0.html) |
 | September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |                                                                                                                                                                                                                                      |
 | September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       |                                                                                                                                                                                                                                      |
@@ -85,7 +79,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 | November 28, 2024  | Lecture 25 - Hierarchical models                                                              |                                                                                                                                                                                                                                      |
 | December 3, 2024   | Lecture 26 - Misc /Data visualizations                                                        |                                                                                                                                                                                                                                      |
 
-# Data for Assignments {#data-for-assignments}
+# Data for Assignments 
 
 Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. To use the data for assignments, you can either download the files directly from the repository into your computer or install them directly into R using the following instructions:
 
