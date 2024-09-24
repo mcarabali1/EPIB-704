@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="title.png" width="500"/>
 
 # EPIB 704: Doctoral Level Epidemiologic Methods I
@@ -94,6 +93,3 @@ We have three options for you to import the assignments datasets into R:
   - b) Import the df into R: `mydata <- read.csv(url(urlfile))`
 
 - Option 3: Download the files directly from the repository onto your computer and import them into R.
-
-
-=======
