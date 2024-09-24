@@ -93,3 +93,8 @@ We have three options for you to import the assignments datasets into R:
   - b) Import the df into R: `mydata <- read.csv(url(urlfile))`
 
 - Option 3: Download the files directly from the repository onto your computer and import them into R.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> parent of 00fed4e (...)
