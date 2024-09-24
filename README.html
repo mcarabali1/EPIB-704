@@ -359,8 +359,8 @@ display: none;
 <p><strong>Schedule:</strong> Tuesdays and Thursdays (08:35 AM -10:25
 AM).</p>
 <ul>
-<li>First class: August 29<sup>th</sup>, 2024.</li>
-<li>Last class: December 3<sup>rd</sup>, 2024.</li>
+<li>First class: August 29th, 2024.</li>
+<li>Last class: December 3rd, 2024.</li>
 </ul>
 <p><strong>Teaching Assistants:</strong></p>
 <ul>
@@ -404,9 +404,9 @@ address these biases.</p>
 statistical concepts covered will be illustrated by computer coding, the
 new calculus for modern epidemiologic methods. Counting has historically
 been the essential background to epidemiologic research and remains so
-in the 21<sup>st</sup> century but is now often best accomplished by
-simulation and sampling of posterior probability distributions. Examples
-of the required computing code will be extensively provided.</p>
+in the 21st century but is now often best accomplished by simulation and
+sampling of posterior probability distributions. Examples of the
+required computing code will be extensively provided.</p>
 <p>Attention will also be given to exploratory data analysis (tabular
 and graphical), data interpretation, critical examination of assumptions
 and reproducible research. Students will focus mainly on cumulative
@@ -479,34 +479,39 @@ posted on MyCourses by the start of the academic semester.</p>
 <tr class="odd">
 <td>August 29, 2024</td>
 <td>Lecture 01 - Introduction EPIB 704</td>
-<td><a href="https://github.com/mcarabali1/EPIB-704/blob/main/slides/L1_Introduction%20to%20EPIB%20704.pdf">pdf</a>,
+<td><a href="https://rawcdn.githack.com/mcarabali1/EPIB-704/7fddb8cde1351192748658407a334253d3e3b141/slides/L1_Introduction%20to%20EPIB%20704.pdf">pdf</a>,
 <a href="https://rawcdn.githack.com/ortizbrizuela/internal-use-only/dea1f1d501ed9f457a65e08c42fd6901d9f7a594/L1_EPIB704_v0.html">html</a></td>
 </tr>
 <tr class="even">
 <td>September 3, 2024</td>
 <td>Lecture 02 - Statistical inference - Frequentist / Bayesian</td>
-<td></td>
+<td><a href="https://rawcdn.githack.com/mcarabali1/EPIB-704/7fddb8cde1351192748658407a334253d3e3b141/slides/L2_Statistical%20inference.pdf">pdf</a>,
+<a href="https://rawcdn.githack.com/ortizbrizuela/internal-use-only/c5d6bd42e8b72efc60e590236569acd0d5668cf0/L2_EPIB704_stat_inference.html">html</a></td>
 </tr>
 <tr class="odd">
 <td>September 5, 2024</td>
 <td>Lecture 03 - Causal inference with DAGs</td>
-<td></td>
+<td><a href="https://rawcdn.githack.com/mcarabali1/EPIB-704/7a495eb7b898f5e974c5e0a268dcec6cc5da8ec0/slides/L3_Directed%20Acyclic%20Graphs%20(DAGs).pdf">pdf</a>,
+<a href="https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a7635c8928c6cbe5ee285a14650e9537ebed22e4/L3_EPIB704_DAG_intro.html">html</a></td>
 </tr>
 <tr class="even">
 <td>September 10, 2024</td>
 <td>Lecture 04 - Measures of Occurrence</td>
-<td></td>
+<td><a href="https://rawcdn.githack.com/mcarabali1/EPIB-704/7a495eb7b898f5e974c5e0a268dcec6cc5da8ec0/slides/L4_Measures%20of%20Occurrence.pdf">pdf</a>,
+<a href="https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a7635c8928c6cbe5ee285a14650e9537ebed22e4/L4_EPIB704_Occurrence.html">html</a></td>
 </tr>
 <tr class="odd">
 <td>September 12, 2024</td>
 <td>Lecture 05 - Measures of Association</td>
-<td></td>
+<td><a href="https://rawcdn.githack.com/mcarabali1/EPIB-704/1300e0fe3c3f6d0f1fb14f6beae855953e433cf6/slides/L5_Measures%20of%20Association.pdf">pdf</a>,
+<a href="https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a71cac69fa4e3dab014b47e2e913a1bd7052aa46/L5_EPIB704_Association.html">html</a></td>
 </tr>
 <tr class="even">
 <td>September 17, 2024</td>
 <td>Lecture 06 - Risk &amp; Hazards - Introduction to the concept of
 Survival Analysis</td>
-<td></td>
+<td><a href="https://rawcdn.githack.com/mcarabali1/EPIB-704/3e5e1e3bd99332faa4865c01c00cfc3218062d0a/slides/L6_Introduction%20to%20Time-to-Event.pdf">pdf</a>,
+<a href="https://rawcdn.githack.com/ortizbrizuela/internal-use-only/8294ea05d0a54a8c23a216afccbdc4ffd2e4730e/L6_Hazards_Intro1.html">html</a></td>
 </tr>
 <tr class="odd">
 <td>September 19, 2024</td>
@@ -617,16 +622,34 @@ to model binary outcomes</td>
 <div id="data-for-assignments" class="section level1">
 <h1>Data for Assignments</h1>
 <p>Data for assignments can be found in the <a href="https://github.com/mcarabali1/EPIB-704/tree/main/data">/EPIB-704/tree/main/data</a>
-folder. To use the data for assignments, you can either download the
-files directly from the repository into your computer or install them
-directly into R using the following instructions:</p>
-<p>1. Save the raw url file into an R object (just change the name of
-the file (i.e. the Plato_FDA_470.csv part) to the url shown below if
-needed)</p>
-<p>urlfile = “<a href="https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv" class="uri">https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv</a>”</p>
-<p>2. Read the data using a special function tailored for the file
-type.</p>
-<p>mydata&lt;-read.csv(url(urlfile))</p>
+folder. We have three options for you to import the assignments datasets
+into R:</p>
+<ul>
+<li>Option 1: Install our epib.704 package:
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>First, install the remotes package:
+<code>install.packages(&quot;remotes&quot;)</code></li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Then, install the epib.704.data package:
+<code>remotes::install_github(&quot;mcarabali1/epib.704.data&quot;)</code></li>
+</ol></li>
+</ul></li>
+<li>Option 2: Install them directly in R using their URL:
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>Assign the df URL to an R object:
+<code>urlfile &lt;- &quot;https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv&quot;</code></li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>Import the df into R:
+<code>mydata &lt;- read.csv(url(urlfile))</code></li>
+</ol></li>
+</ul></li>
+<li>Option 3: Download the files directly from the repository onto your
+computer and import them into R.</li>
+</ul>
 </div>
 
 
