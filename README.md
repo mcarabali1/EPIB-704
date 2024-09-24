@@ -57,7 +57,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 | September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/7a495eb7b898f5e974c5e0a268dcec6cc5da8ec0/slides/L3_Directed%20Acyclic%20Graphs%20(DAGs).pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a7635c8928c6cbe5ee285a14650e9537ebed22e4/L3_EPIB704_DAG_intro.html)                                                                                                                                                                                                                                     |
 | September 10, 2024 | Lecture 04 - Measures of Occurrence                                                           |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/7a495eb7b898f5e974c5e0a268dcec6cc5da8ec0/slides/L4_Measures%20of%20Occurrence.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a7635c8928c6cbe5ee285a14650e9537ebed22e4/L4_EPIB704_Occurrence.html)                                                                                                                                                                                                                                    |
 | September 12, 2024 | Lecture 05 - Measures of Association                                                          |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/1300e0fe3c3f6d0f1fb14f6beae855953e433cf6/slides/L5_Measures%20of%20Association.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a71cac69fa4e3dab014b47e2e913a1bd7052aa46/L5_EPIB704_Association.html)                                                                                                                                                                                                                                    |
-| September 17, 2024 | Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis                |                                                                                                                                                                                                                                      |
+| September 17, 2024 | Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis                | [pdf](), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/8294ea05d0a54a8c23a216afccbdc4ffd2e4730e/L6_Hazards_Intro1.html)                                                                                                                                                                                                                                      |
 | September 19, 2024 | Lecture 07 - Confounding (I)                                                                  |                                                                                                                                                                                                                                      |
 | September 24, 2024 | Lecture 08 - Confounding (II)                                                                 |                                                                                                                                                                                                                                      |
 | September 26, 2024 | Lecture 09 - Linear regression (with an introduction to Bayesian models)                      |                                                                                                                                                                                                                                      |
@@ -93,13 +93,3 @@ We have three options for you to import the assignments datasets into R:
   - b) Import the df into R: `mydata <- read.csv(url(urlfile))`
 
 - Option 3: Download the files directly from the repository onto your computer and import them into R.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
-
->>>>>>> parent of 00fed4e (...)
-=======
-
-
->>>>>>> parent of 00fed4e (...)
