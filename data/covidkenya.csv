@@ -1,0 +1,356 @@
+adm_sex,sex,adm_agemons,age_cat_new,covid_status,height,weight,hfaz,stunting_cat,muac_average,nutritional_status,muac_cat,hh_covid_pos,birth_order,breast_feeding1
+Male,1,20,12-23 months,0,72.6,7.16,-4.35,Severe stunting,11.15,SAM,1,No,First,nobreastfeed
+Male,1,58,2-5 years,0,108.7,17.4,-0.06,No stunting,15.5,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,5,<6 months,0,67.4,8.2,0.54,No stunting,14.9,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,44,2-5 years,0,107.2,15.3,1.43,No stunting,14.3,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,39,2-5 years,0,112.15,16.07,3.56,No stunting,13.95,MAM,3,No,Second,nobreastfeed
+Male,1,56,2-5 years,0,NA,14.4,NA,NA,14.55,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,15,12-23 months,0,78.5,9.3,0.01,No stunting,15.4,No Malnutrition,3,No,First,nobreastfeed
+Male,1,105,>=5 years,0,127.8,24.3,-0.62,No stunting,16.05,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,6,6-11 months,0,60.45,6,-3.65,Severe stunting,12.4,MAM,2,No,First,breasfeed
+Female,2,44,2-5 years,0,91,13.6,-2.28,Moderate stunting,15.6,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,77,>=5 years,0,119.1,21.8,0.14,No stunting,16.75,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,44,2-5 years,0,99.55,14.8,-0.47,No stunting,15.4,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,7,6-11 months,0,79.15,10.51,4.57,No stunting,14.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,31,2-5 years,0,87.5,11.8,-1.64,No stunting,14.3,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,43,2-5 years,0,94.7,14.6,-1.34,No stunting,15.15,SAM,3,No,Third and above,nobreastfeed
+Female,2,46,2-5 years,0,95.2,12.4,-1.55,No stunting,13.25,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,101,>=5 years,0,131.15,23.3,0.25,No stunting,17.05,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,47,2-5 years,0,NA,NA,NA,NA,16.15,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,14,12-23 months,0,69,6.73,-3.87,Severe stunting,11.45,SAM,1,No,Second,breasfeed
+Male,1,8,6-11 months,0,62.6,4.32,-3.67,Severe stunting,9.85,SAM,1,No,First,nobreastfeed
+Female,2,2,<6 months,0,128.85,25.3,34.12,No stunting,17.3,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,23,12-23 months,0,84.65,11,-0.93,No stunting,14.95,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,38,2-5 years,0,82.5,12,-3.63,Severe stunting,12.45,MAM,2,No,Third and above,nobreastfeed
+Male,1,17,12-23 months,0,NA,6.24,NA,NA,14.1,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,18,12-23 months,0,77.3,10.18,-1.9,No stunting,14.95,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,82,>=5 years,0,119.15,19.9,-0.4,No stunting,17.15,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,26,2-5 years,0,77.3,9.5,-3.66,Severe stunting,14.25,No Malnutrition,3,No,First,nobreastfeed
+Female,2,29,2-5 years,0,90.5,14.6,0.17,No stunting,14.7,SAM,3,No,Third and above,nobreastfeed
+Male,1,22,12-23 months,0,86.1,11.32,-0.04,No stunting,15.1,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,36,2-5 years,0,90.1,12.3,-1.65,No stunting,15.1,No Malnutrition,3,No,First,nobreastfeed
+Male,1,5,<6 months,0,67.5,9.29,0.16,No stunting,13.95,No Malnutrition,3,No,First,nobreastfeed
+Female,2,35,2-5 years,0,91.25,13.6,-0.86,No stunting,15.9,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,2,<6 months,0,60.4,6,0.71,No stunting,13.05,No Malnutrition,3,No,Second,breasfeed
+Male,1,1,<6 months,0,51.45,2.68,-3.39,Severe stunting,7.35,SAM,1,No,First,breasfeed
+Female,2,173,>=5 years,0,136.05,NA,-3.58,Severe stunting,14.5,SAM,NA,No,Third and above,nobreastfeed
+Male,1,6,6-11 months,0,67.5,7.3,-0.74,No stunting,14.05,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,56,2-5 years,0,102.9,15.15,-0.99,No stunting,15.25,No Malnutrition,3,No,First,nobreastfeed
+Female,2,46,2-5 years,0,83.45,9.5,-4.34,Severe stunting,13.9,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,9,6-11 months,0,66,7.7,-1.75,No stunting,14.95,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,115,>=5 years,0,135.05,25.2,-0.1,No stunting,17.35,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,44,2-5 years,0,104.2,17.8,0.8,No stunting,16.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,65,>=5 years,0,110.3,18.01,-0.51,No stunting,14.35,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,7,6-11 months,0,63.45,6.53,-3.1,Severe stunting,14.6,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,5,<6 months,0,61.6,6.42,-1.53,No stunting,13.4,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,17,12-23 months,0,72.1,8.6,-2.73,Moderate stunting,13.45,No Malnutrition,3,No,First,nobreastfeed
+Male,1,33,2-5 years,0,87.5,12.7,-1.92,No stunting,14.5,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,87,>=5 years,0,119.15,19.9,-0.79,No stunting,15.1,MAM,NA,No,First,nobreastfeed
+Female,2,38,2-5 years,0,84.3,14.4,-3.25,Severe stunting,16.2,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,65,>=5 years,0,112.3,17.4,-0.07,No stunting,15.35,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,61,>=5 years,0,104.3,14.5,-1.17,No stunting,13.95,MAM,NA,No,Third and above,nobreastfeed
+Female,2,32,2-5 years,0,92.3,13.1,0.02,No stunting,14.2,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,40,2-5 years,1,90.5,11.7,-1.85,No stunting,14.5,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,30,2-5 years,0,92,13.7,-0.03,No stunting,14.95,No Malnutrition,3,No,First,nobreastfeed
+Female,2,62,>=5 years,0,108.8,16.5,-0.3,No stunting,13.95,MAM,NA,No,Third and above,nobreastfeed
+Female,2,25,2-5 years,0,76.5,13.8,-3.18,Severe stunting,14.95,SAM,3,No,Third and above,nobreastfeed
+Female,2,142,>=5 years,0,153.1,44.5,0.41,No stunting,18.2,SAM,NA,No,Third and above,nobreastfeed
+Female,2,32,2-5 years,0,94,14,0.37,No stunting,14.2,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,17,12-23 months,0,78.2,9.23,-0.72,No stunting,13.85,No Malnutrition,3,No,First,breasfeed
+Female,2,97,>=5 years,1,125.1,24.8,-0.4,No stunting,16.35,No Malnutrition,NA,No,Second,nobreastfeed
+Female,2,45,2-5 years,0,97.2,13,-1,No stunting,15.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,25,2-5 years,0,75,7.21,-3.56,Severe stunting,11.9,MAM,2,No,Third and above,breasfeed
+Female,2,42,2-5 years,0,114.15,17.8,3.59,No stunting,15.2,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,12,12-23 months,0,71.3,6.91,-1.41,No stunting,12.35,SAM,2,No,Third and above,nobreastfeed
+Female,2,138,>=5 years,0,143.7,28,-0.69,No stunting,16.8,MAM,NA,No,Third and above,nobreastfeed
+Male,1,20,12-23 months,0,85.15,10.6,0.12,No stunting,14.25,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,23,12-23 months,0,78.1,9.57,-3,Moderate stunting,15.2,SAM,3,No,Third and above,nobreastfeed
+Male,1,28,2-5 years,0,92.1,16.38,0.5,No stunting,14.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,40,2-5 years,0,104.1,16.5,1.3,No stunting,14.95,No Malnutrition,3,No,First,nobreastfeed
+Male,1,63,>=5 years,0,110.5,17.1,-0.24,No stunting,13.5,MAM,NA,No,Third and above,nobreastfeed
+Female,2,48,2-5 years,0,NA,NA,NA,NA,15.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,140,>=5 years,0,140.9,30,-0.88,No stunting,17.15,MAM,NA,No,Third and above,nobreastfeed
+Female,2,19,12-23 months,0,77.1,9.43,-1.77,No stunting,14.7,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,54,2-5 years,0,118.1,18.5,2.55,No stunting,13.95,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,150,>=5 years,0,180,37.9,3.79,No stunting,21.25,SAM,NA,No,First,nobreastfeed
+Male,1,136,>=5 years,0,146.15,36.2,0.16,No stunting,19.8,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,48,2-5 years,0,94,11.6,-2.26,Moderate stunting,13.15,MAM,3,No,First,nobreastfeed
+Male,1,73,>=5 years,0,108.9,14.5,-1.58,No stunting,12.65,SAM,NA,No,Third and above,nobreastfeed
+Male,1,51,2-5 years,0,104.2,15,-0.25,No stunting,15.15,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,33,2-5 years,0,89.4,10.8,-1.37,No stunting,7.35,SAM,1,No,First,nobreastfeed
+Female,2,85,>=5 years,0,124.9,19.9,0.6,No stunting,15.4,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,98,>=5 years,0,131.9,23.7,0.61,No stunting,15.1,MAM,NA,No,Third and above,nobreastfeed
+Male,1,87,>=5 years,0,112.1,18.3,-2.1,Moderate stunting,14.5,MAM,NA,No,Third and above,nobreastfeed
+Female,2,29,2-5 years,1,85.9,11.4,-1.25,No stunting,15.15,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,8,6-11 months,0,74.5,9.82,1.48,No stunting,16.05,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,13,12-23 months,0,72.2,5.4,-1.24,No stunting,12.3,SAM,2,No,First,breasfeed
+Male,1,22,12-23 months,0,78.5,8.67,-2.67,Moderate stunting,13.5,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,40,2-5 years,0,97.1,14.5,-0.45,No stunting,15.15,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,18,12-23 months,0,77.7,8.77,-1.82,No stunting,14,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,2,<6 months,0,43.1,1.36,-7.95,Severe stunting,8.6,SAM,1,No,Third and above,breasfeed
+Male,1,39,2-5 years,0,96.15,13.3,-0.56,No stunting,16,No Malnutrition,3,No,First,nobreastfeed
+Female,2,33,2-5 years,0,88.9,12.9,-1.16,No stunting,14.65,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,4,<6 months,0,70.1,6.31,2.43,No stunting,10.4,SAM,1,No,Second,nobreastfeed
+Female,2,19,12-23 months,0,81.5,9.405,-0.35,No stunting,14.7,No Malnutrition,3,No,First,nobreastfeed
+Male,1,56,2-5 years,0,110.5,16.5,0.59,No stunting,15.2,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,73,>=5 years,0,NA,8.6,NA,NA,9.2,SAM,NA,No,Third and above,nobreastfeed
+Male,1,41,2-5 years,0,85,11,-3.67,Severe stunting,13.75,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,84,>=5 years,0,117,19.6,-0.97,No stunting,14.15,MAM,NA,No,Third and above,nobreastfeed
+Male,1,25,2-5 years,0,82.1,9.17,-2.04,Moderate stunting,13.65,MAM,3,No,Third and above,nobreastfeed
+Female,2,11,6-11 months,0,69.1,6.78,-1.66,No stunting,14.05,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,85,>=5 years,0,106.1,17.75,-2.81,Moderate stunting,13.6,MAM,NA,No,Third and above,nobreastfeed
+Male,1,18,12-23 months,0,83,8.36,0.14,No stunting,10.65,SAM,1,No,First,nobreastfeed
+Male,1,101,>=5 years,1,126.4,23.5,-0.56,No stunting,16.15,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,86,>=5 years,0,119.2,19.5,-0.51,No stunting,14.55,MAM,NA,No,Third and above,nobreastfeed
+Male,1,10,6-11 months,1,79.05,9.5,2.3,No stunting,13.05,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,9,6-11 months,0,64.2,7.94,-2.95,Moderate stunting,15.05,No Malnutrition,3,No,Second,breasfeed
+Female,2,18,12-23 months,0,78.7,7.8,-0.84,No stunting,11,SAM,1,No,Second,breasfeed
+Female,2,24,2-5 years,0,79,9.5,-2.18,Moderate stunting,13,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,12,12-23 months,0,72.35,9.65,-1.76,No stunting,15.75,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,36,2-5 years,0,92.05,13.8,-1.2,No stunting,16.1,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,32,2-5 years,0,101.5,16.4,2.45,No stunting,15.05,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,16,12-23 months,1,70.05,8.72,-3.19,Severe stunting,14.05,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,24,2-5 years,0,89.1,7.31,0.62,No stunting,9.45,SAM,1,No,Second,nobreastfeed
+Male,1,6,6-11 months,0,67.45,6.5,-0.38,No stunting,13.4,MAM,3,No,First,breasfeed
+Male,1,22,12-23 months,0,74,5.6,-4.14,Severe stunting,11.45,SAM,1,No,Third and above,nobreastfeed
+Male,1,21,12-23 months,0,92.45,13.6,2.52,No stunting,15.5,SAM,3,No,Third and above,nobreastfeed
+Male,1,22,12-23 months,0,91.1,13.1,1.51,No stunting,15.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,12,12-23 months,1,72.15,8.89,-0.78,No stunting,13.75,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,21,12-23 months,0,105.35,15.2,6.92,No stunting,14.45,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,56,2-5 years,0,104.35,15.3,-0.77,No stunting,16.1,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,33,2-5 years,0,89,13.3,-1.55,No stunting,14.85,No Malnutrition,3,No,First,nobreastfeed
+Female,2,24,2-5 years,0,76.9,7.76,-2.85,Moderate stunting,12.55,MAM,3,No,First,nobreastfeed
+Female,2,51,2-5 years,0,80.1,13.7,-5.56,Severe stunting,15.55,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,13,12-23 months,0,72.25,8.82,-1.37,No stunting,14.85,No Malnutrition,3,No,First,breasfeed
+Female,2,6,6-11 months,0,68,9,0.66,No stunting,15.4,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,26,2-5 years,0,77.1,7.89,-3.76,Severe stunting,12.55,MAM,3,No,Third and above,nobreastfeed
+Male,1,56,2-5 years,0,102.9,16.8,-1.09,No stunting,16.25,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,25,2-5 years,0,87.45,12.9,0.05,No stunting,16.25,No Malnutrition,3,No,First,nobreastfeed
+Male,1,12,12-23 months,1,69.4,5.25,-3.05,Severe stunting,9.55,SAM,1,No,Second,nobreastfeed
+Female,2,20,12-23 months,1,NA,NA,NA,NA,13.45,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,96,>=5 years,0,113.8,16.9,-2.41,Moderate stunting,14.05,SAM,NA,No,First,nobreastfeed
+Female,2,136,>=5 years,1,130.6,27,-2.48,Moderate stunting,18.85,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,30,2-5 years,1,82,7.91,-3.06,Severe stunting,13.35,SAM,3,No,First,nobreastfeed
+Female,2,99,>=5 years,0,130.9,24.6,0.45,No stunting,15.35,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,44,2-5 years,0,91,12.9,-2.59,Moderate stunting,14.55,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,21,12-23 months,1,82.1,10.5,-1.21,No stunting,14.35,No Malnutrition,3,No,First,nobreastfeed
+Male,1,3,<6 months,0,56.45,3.36,-3.31,Severe stunting,10.1,SAM,1,No,First,breasfeed
+Male,1,43,2-5 years,0,96.45,12.07,-1.1,No stunting,13.8,MAM,3,No,Second,nobreastfeed
+Female,2,90,>=5 years,0,115.2,17.3,-1.56,No stunting,14.7,MAM,NA,No,Third and above,nobreastfeed
+Female,2,25,2-5 years,1,86.4,12.01,-0.29,No stunting,16.5,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,30,2-5 years,0,87.5,12,-1.07,No stunting,14.5,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,15,12-23 months,0,78,10.04,-0.55,No stunting,14,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,16,12-23 months,0,89.5,12.9,3.57,No stunting,16,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,66,>=5 years,0,104.45,15.6,-1.79,No stunting,12.75,SAM,NA,No,Third and above,nobreastfeed
+Female,2,5,<6 months,0,62.2,6.74,-1.52,No stunting,14.2,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,56,2-5 years,0,100.5,15.1,-1.55,No stunting,14.5,No Malnutrition,3,No,First,nobreastfeed
+Female,2,133,>=5 years,0,124.7,22.7,-3.15,Severe stunting,17.45,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,9,6-11 months,0,69.2,6.81,-1.29,No stunting,12,MAM,2,No,Second,breasfeed
+Male,1,5,<6 months,0,78.15,12.7,5.1,No stunting,14.75,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,14,12-23 months,0,75.15,11.2,-1.52,No stunting,13.9,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,20,12-23 months,0,80.5,13.8,-1.32,No stunting,15.25,No Malnutrition,3,No,First,nobreastfeed
+Male,1,7,6-11 months,0,65.55,7.72,-2,No stunting,13.7,No Malnutrition,3,No,First,breasfeed
+Male,1,2,<6 months,0,51,2.86,-4.62,Severe stunting,9.5,SAM,1,No,First,nobreastfeed
+Male,1,32,2-5 years,1,79.05,9.95,-4.21,Severe stunting,12.45,MAM,2,No,Second,nobreastfeed
+Male,1,29,2-5 years,0,82.35,9.9,-2.66,Moderate stunting,13.55,No Malnutrition,3,No,First,nobreastfeed
+Male,1,111,>=5 years,0,116.3,21.8,-2.92,Moderate stunting,16.75,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,5,<6 months,0,61.85,5.69,-2.05,Moderate stunting,12.7,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,67,>=5 years,0,99,14.5,-2.78,Moderate stunting,14.35,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,17,12-23 months,0,72.1,7.31,-2.94,Moderate stunting,12.55,No Malnutrition,3,No,First,breasfeed
+Male,1,2,<6 months,1,58.55,7.6,-1.35,No stunting,12.7,No Malnutrition,3,No,Second,breasfeed
+Female,2,25,2-5 years,1,74.85,9.5,-3.71,Severe stunting,13,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,62,>=5 years,0,99.4,13.4,-2.25,Moderate stunting,14.9,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,7,6-11 months,0,65.5,6.205,-1.96,No stunting,11.45,SAM,1,No,Second,breasfeed
+Female,2,29,2-5 years,0,85,11,-1.61,No stunting,14.3,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,68,>=5 years,0,116.4,20.81,0.44,No stunting,15.45,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,11,6-11 months,0,71.6,8.63,-0.66,No stunting,14.55,No Malnutrition,3,No,Second,breasfeed
+Female,2,15,12-23 months,0,78.4,9.67,0.15,No stunting,13.4,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,19,12-23 months,1,82.9,7.7,0.29,No stunting,11.25,SAM,1,No,Second,nobreastfeed
+Female,2,24,2-5 years,1,86.2,10.6,-0.09,No stunting,14.55,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,45,2-5 years,0,95.55,15,-1.55,No stunting,15.25,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,137,>=5 years,0,135.75,24.5,-1.78,No stunting,16.25,MAM,NA,No,Third and above,nobreastfeed
+Female,2,8,6-11 months,0,66.05,6.55,-1.26,No stunting,12.5,MAM,2,No,First,breasfeed
+Female,2,16,12-23 months,0,74.1,9.59,-1.71,No stunting,13.3,No Malnutrition,3,No,Second,breasfeed
+Male,1,67,>=5 years,1,116.7,21.9,0.58,No stunting,17.05,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,29,2-5 years,0,82.5,9.6,-2.72,Moderate stunting,14.35,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,3,<6 months,0,48.05,2.26,-6.99,Severe stunting,7.55,SAM,1,No,First,nobreastfeed
+Male,1,149,>=5 years,0,132.2,22.1,-2.75,Moderate stunting,14.45,SAM,NA,No,Second,nobreastfeed
+Female,2,113,>=5 years,1,128.5,21.7,-1.07,No stunting,16.35,MAM,NA,No,Second,nobreastfeed
+Male,1,22,12-23 months,1,88.85,11.7,0.65,No stunting,15.2,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,25,2-5 years,1,85.15,11.3,-0.47,No stunting,14.8,SAM,3,No,Third and above,nobreastfeed
+Female,2,55,2-5 years,0,114.1,17.4,1.49,No stunting,14.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,25,2-5 years,0,91.45,14.1,1.3,No stunting,15.75,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,23,12-23 months,0,87.1,10.6,0.24,No stunting,12.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,10,6-11 months,0,80.35,10.3,3.04,No stunting,14.55,No Malnutrition,3,No,Second,breasfeed
+Female,2,13,12-23 months,0,72.05,6.75,-1.56,No stunting,11.05,SAM,1,No,Second,nobreastfeed
+Male,1,23,12-23 months,0,84,15,-1.12,No stunting,16.8,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,68,>=5 years,0,85.4,8.2,-5.95,Severe stunting,11.25,SAM,NA,No,First,nobreastfeed
+Female,2,3,<6 months,0,56,4.9,-2.52,Moderate stunting,11.7,MAM,2,No,Third and above,nobreastfeed
+Male,1,31,2-5 years,0,80.05,8.23,-3.75,Severe stunting,11.55,SAM,2,No,Third and above,nobreastfeed
+Female,2,31,2-5 years,0,93.1,12.6,0.29,No stunting,14.9,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,22,12-23 months,0,94.45,14.4,2.91,No stunting,16,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,78,>=5 years,1,110.4,15.6,-1.46,No stunting,14.95,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,53,2-5 years,0,85.2,16,-4.8,Severe stunting,16.25,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,27,2-5 years,0,88.4,12.5,-0.5,No stunting,15.25,No Malnutrition,3,No,First,nobreastfeed
+Male,1,9,6-11 months,1,69.4,8.9,-1.57,No stunting,14.4,No Malnutrition,3,No,First,breasfeed
+Female,2,46,2-5 years,0,106.15,18,1.03,No stunting,16.75,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,47,2-5 years,1,86.2,10.4,-3.82,Severe stunting,14.6,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,82,>=5 years,0,127.7,22.5,1.27,No stunting,15.55,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,23,12-23 months,0,83.6,11.1,-0.65,No stunting,16.35,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,28,2-5 years,0,84.5,11.5,-1.99,No stunting,15.5,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,84,>=5 years,0,105.55,14.1,-2.82,Moderate stunting,13.5,SAM,NA,No,First,nobreastfeed
+Female,2,47,2-5 years,0,103.3,13.7,0.22,No stunting,13.55,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,5,<6 months,0,100.2,21.5,15.86,No stunting,16.65,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,53,2-5 years,0,91.6,11.6,-3.36,Severe stunting,13.35,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,25,2-5 years,1,83.8,10.8,-0.87,No stunting,14.45,SAM,3,No,First,nobreastfeed
+Female,2,35,2-5 years,0,84.6,11.3,-2.65,Moderate stunting,13.7,SAM,3,No,Second,nobreastfeed
+Male,1,102,>=5 years,0,136.5,28.6,1.09,No stunting,17.45,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,48,2-5 years,0,100.2,14.3,-0.65,No stunting,14.05,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,12,12-23 months,0,79.05,9.07,1.24,No stunting,12.05,MAM,2,No,Second,breasfeed
+Female,2,30,2-5 years,0,86.3,11.4,-1.27,No stunting,14.5,No Malnutrition,3,No,Second,breasfeed
+Female,2,15,12-23 months,0,NA,NA,NA,NA,NA,NA,NA,No,Second,breasfeed
+Female,2,53,2-5 years,0,105.15,14.78,-0.18,No stunting,15.7,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,26,2-5 years,0,85,11.1,-1.41,No stunting,15.1,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,34,2-5 years,0,105.4,15.7,2.76,No stunting,14.75,No Malnutrition,3,No,First,nobreastfeed
+Female,2,142,>=5 years,0,145.75,27.6,-0.72,No stunting,17.95,SAM,NA,No,Third and above,nobreastfeed
+Male,1,7,6-11 months,0,70.7,8.4,0.06,No stunting,14.35,No Malnutrition,3,No,Second,breasfeed
+Female,2,11,6-11 months,0,64.55,4.71,-3.51,Severe stunting,10.5,SAM,1,No,Third and above,breasfeed
+Male,1,40,2-5 years,0,92,12.8,-1.84,No stunting,14.95,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,35,2-5 years,0,89.4,12.4,-1.78,No stunting,15.1,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,19,12-23 months,0,66.1,6.45,-5.43,Severe stunting,12.15,MAM,2,No,First,nobreastfeed
+Female,2,75,>=5 years,1,115.95,19.3,-0.19,No stunting,15.45,SAM,NA,No,Third and above,nobreastfeed
+Female,2,13,12-23 months,1,78.1,8.29,0.86,No stunting,13.35,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,9,6-11 months,0,65,5.53,-2.38,Moderate stunting,11.45,SAM,1,No,First,nobreastfeed
+Female,2,10,6-11 months,NA,65.4,5.4,-2.57,Moderate stunting,10.55,SAM,1,No,Second,nobreastfeed
+Female,2,114,>=5 years,0,135.6,23.5,-0.07,No stunting,14.4,SAM,NA,No,Third and above,nobreastfeed
+Male,1,33,2-5 years,0,87.3,11.7,-1.96,No stunting,15.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,7,6-11 months,0,73.8,9.14,1.59,No stunting,15.65,No Malnutrition,3,No,Second,breasfeed
+Female,2,128,>=5 years,0,32.1,24.9,-16.87,Severe stunting,16.7,MAM,NA,No,Third and above,nobreastfeed
+Female,2,93,>=5 years,NA,NA,NA,NA,NA,18,SAM,NA,No,Third and above,nobreastfeed
+Male,1,63,>=5 years,1,106.45,15.75,-1.06,No stunting,14.9,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,13,12-23 months,0,73.25,9.835,-1.59,No stunting,14.85,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,30,2-5 years,0,83.45,10.705,-2.64,Moderate stunting,15.15,No Malnutrition,3,No,First,nobreastfeed
+Male,1,99,>=5 years,0,119.15,19.65,-1.66,No stunting,14.35,SAM,NA,No,Third and above,nobreastfeed
+Male,1,63,>=5 years,0,119.7,19.905,1.76,No stunting,15.7,SAM,NA,No,Second,nobreastfeed
+Male,1,18,12-23 months,0,82.55,11.7,-0.04,No stunting,16.05,No Malnutrition,3,No,First,nobreastfeed
+Male,1,37,2-5 years,0,97.65,13.6,0.11,No stunting,16.45,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,18,12-23 months,0,84.65,12,0.8,No stunting,15.85,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,90,>=5 years,0,113.85,18.7,-2.02,Moderate stunting,14.65,MAM,NA,No,Second,nobreastfeed
+Female,2,8,6-11 months,0,67.55,6.355,-0.91,No stunting,11.65,MAM,2,No,First,nobreastfeed
+Male,1,156,>=5 years,0,149.15,33.5,-0.95,No stunting,18.7,MAM,NA,No,Third and above,nobreastfeed
+Female,2,16,12-23 months,0,97.75,9.1,6.45,No stunting,12.8,SAM,3,No,First,nobreastfeed
+Female,2,8,6-11 months,1,65.85,7.485,-1.35,No stunting,14.05,No Malnutrition,3,No,Second,breasfeed
+Female,2,45,2-5 years,0,95.3,13.75,-1.45,No stunting,14.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,22,12-23 months,0,79.35,8.65,-1.94,No stunting,12.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,13,12-23 months,NA,73.55,6.85,-1.69,No stunting,9.65,SAM,1,No,Third and above,nobreastfeed
+Male,1,100,>=5 years,1,116.85,21.5,-2.12,Moderate stunting,16.45,No Malnutrition,NA,No,Second,nobreastfeed
+Male,1,69,>=5 years,0,122.8,27.5,1.71,No stunting,19.8,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,9,6-11 months,1,70.4,8.7,-0.15,No stunting,15.15,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,14,12-23 months,1,79.25,8.4,0.91,No stunting,13.15,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,94,>=5 years,0,129.3,24.25,0.6,No stunting,15.9,No Malnutrition,NA,No,Second,nobreastfeed
+Male,1,160,>=5 years,0,126.05,21.6,-4.34,Severe stunting,15,SAM,NA,No,Second,nobreastfeed
+Female,2,136,>=5 years,0,152.45,41.45,0.73,No stunting,21.2,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,10,6-11 months,1,72.05,8.7,-0.82,No stunting,15.85,No Malnutrition,3,No,Second,breasfeed
+Male,1,122,>=5 years,0,140.15,30.8,0.18,No stunting,17.15,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,36,2-5 years,0,93.15,13.2,-0.88,No stunting,15.05,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,11,6-11 months,0,75.35,9.8,0.09,No stunting,15.45,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,62,>=5 years,1,85.05,6.5,-5.22,Severe stunting,9.05,SAM,NA,No,Third and above,nobreastfeed
+Female,2,13,12-23 months,0,62.3,4.585,-4.98,Severe stunting,9.85,SAM,1,No,Second,nobreastfeed
+Male,1,64,>=5 years,0,NA,14.6,NA,NA,11.05,SAM,NA,No,Third and above,nobreastfeed
+Male,1,29,2-5 years,1,82.05,10.75,-2.87,Moderate stunting,14.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,138,>=5 years,1,133,22.75,-1.89,No stunting,15.15,SAM,NA,No,First,nobreastfeed
+Female,2,72,>=5 years,1,111.1,16.5,-0.87,No stunting,15.95,No Malnutrition,NA,No,Second,nobreastfeed
+Female,2,27,2-5 years,1,88.3,12.7,-0.11,No stunting,14.5,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,125,>=5 years,1,142.35,28.5,0.16,No stunting,15,SAM,NA,No,Third and above,nobreastfeed
+Female,2,101,>=5 years,0,122.25,19.65,-1.14,No stunting,15.25,MAM,NA,No,Second,nobreastfeed
+Male,1,86,>=5 years,0,124.95,24.55,0.35,No stunting,17.3,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,41,2-5 years,0,113.8,19.1,3.63,No stunting,16.05,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,35,2-5 years,1,84.25,9.7,-2.7,Moderate stunting,13.35,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,14,12-23 months,0,75.25,8.1,-1.33,No stunting,12.65,MAM,3,No,Third and above,nobreastfeed
+Female,2,137,>=5 years,1,142.45,27.25,-0.8,No stunting,15.65,SAM,NA,No,Third and above,nobreastfeed
+Male,1,13,12-23 months,1,75.55,9.6,-0.91,No stunting,14.95,No Malnutrition,3,No,First,nobreastfeed
+Female,2,29,2-5 years,0,86.55,12.65,-1,No stunting,15.5,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,5,<6 months,0,62.05,6.75,-2.14,Moderate stunting,14,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,29,2-5 years,0,71.6,6.425,-5.4,Severe stunting,10.5,SAM,1,No,Third and above,nobreastfeed
+Female,2,155,>=5 years,1,157.05,62.2,0.12,No stunting,26.9,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,6,6-11 months,0,73.2,9.1,1.88,No stunting,15.35,No Malnutrition,3,Yes,Third and above,breasfeed
+Female,2,13,12-23 months,0,68.7,5.7,-2.56,Moderate stunting,11.3,SAM,1,No,Third and above,breasfeed
+Male,1,18,12-23 months,0,85.95,10.55,1.02,No stunting,14.9,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,7,6-11 months,1,66.65,6.1325,-1.72,No stunting,13.2,MAM,3,No,First,breasfeed
+Male,1,4,<6 months,0,66.95,6.99,0.74,No stunting,14.05,No Malnutrition,3,No,First,breasfeed
+Female,2,88,>=5 years,0,115,13,-1.45,No stunting,9.4,SAM,NA,No,Third and above,nobreastfeed
+Female,2,24,2-5 years,0,87.15,12.225,0.36,No stunting,17.05,No Malnutrition,3,Yes,Third and above,nobreastfeed
+Male,1,24,2-5 years,0,79.2,5.58,-2.66,Moderate stunting,13.3,SAM,3,No,Third and above,nobreastfeed
+Male,1,24,2-5 years,0,86.1,12.65,-0.34,No stunting,17.85,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,26,2-5 years,0,90.05,14.075,0.24,No stunting,18.05,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,5,<6 months,1,74.2,8,3.3,No stunting,13.3,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,153,>=5 years,0,130,13.8,-3.66,Severe stunting,13.1,SAM,NA,No,Third and above,nobreastfeed
+Male,1,19,12-23 months,1,76.75,9.355,-2.58,Moderate stunting,14.75,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,52,2-5 years,1,107.2,17.7,0.41,No stunting,15.2,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,36,2-5 years,0,89.95,12.1,-1.69,No stunting,15.35,No Malnutrition,3,No,First,nobreastfeed
+Male,1,3,<6 months,1,79.4,6,7.93,No stunting,13.4,SAM,3,No,Third and above,breasfeed
+Female,2,125,>=5 years,0,137.85,28.7,-0.57,No stunting,21.15,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,2,<6 months,0,48,2.95,-4.63,Severe stunting,10.75,SAM,1,No,First,breasfeed
+Male,1,38,2-5 years,0,NA,NA,NA,NA,NA,NA,NA,No,Second,breasfeed
+Male,1,9,6-11 months,0,74.2,8.53,0.5,No stunting,13.9,No Malnutrition,3,No,Second,breasfeed
+Female,2,65,>=5 years,0,151.4,19.7,8.09,No stunting,16.5,SAM,NA,No,Second,nobreastfeed
+Female,2,21,12-23 months,0,94.3,12.45,3.16,No stunting,14.7,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,53,2-5 years,0,114.5,19.95,1.78,No stunting,16.4,No Malnutrition,3,No,First,nobreastfeed
+Female,2,6,6-11 months,1,64.5,6.695,-0.8,No stunting,13.05,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,107,>=5 years,0,130,24.25,-0.38,No stunting,17.9,No Malnutrition,NA,No,Second,nobreastfeed
+Male,1,94,>=5 years,0,120.45,21.6,-1.08,No stunting,14.45,MAM,NA,No,Third and above,nobreastfeed
+Male,1,35,2-5 years,0,78.6,8,-4.63,Severe stunting,11.9,SAM,2,No,Third and above,nobreastfeed
+Male,1,95,>=5 years,0,135,33.45,1.4,No stunting,20.3,No Malnutrition,NA,No,Third and above,nobreastfeed
+Female,2,23,12-23 months,0,81.2,10.45,-1.56,No stunting,15.45,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,4,<6 months,0,72.4,10.2,3.81,No stunting,13.85,No Malnutrition,3,No,First,breasfeed
+Female,2,5,<6 months,0,51.2,3.85,-6.25,Severe stunting,11.3,SAM,1,No,First,nobreastfeed
+Female,2,164,>=5 years,0,142.2,34.2,-2.4,Moderate stunting,19.8,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,50,2-5 years,1,105.05,15.225,0.05,No stunting,14.95,No Malnutrition,3,No,First,nobreastfeed
+Male,1,24,2-5 years,0,81.6,10.75,-1.92,No stunting,15.3,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,34,2-5 years,0,87.05,11.9,-1.87,No stunting,16.2,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,34,2-5 years,0,90.4,13.45,-0.87,No stunting,16.6,No Malnutrition,3,No,First,nobreastfeed
+Male,1,40,2-5 years,0,95.7,14.15,-0.8,No stunting,13.65,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,6,6-11 months,0,65.05,6.425,-0.36,No stunting,13.1,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,29,2-5 years,0,85.05,12.875,-1.87,No stunting,15.55,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,128,>=5 years,0,137.45,31.825,-0.87,No stunting,20.35,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,2,<6 months,0,53.05,2.8,-3.83,Severe stunting,9.15,SAM,1,Yes,Third and above,breasfeed
+Female,2,54,2-5 years,0,110.15,19,0.82,No stunting,17.9,No Malnutrition,3,Yes,Third and above,nobreastfeed
+Male,1,10,6-11 months,0,74.5,9.35,0.03,No stunting,15.4,No Malnutrition,3,No,First,breasfeed
+Male,1,27,2-5 years,0,75.15,6.4,-4.48,Severe stunting,12.05,SAM,2,No,Second,breasfeed
+Female,2,115,>=5 years,0,124.05,24.075,-1.94,No stunting,16.75,No Malnutrition,NA,No,First,nobreastfeed
+Female,2,18,12-23 months,0,81.05,10.5,0.06,No stunting,15.15,No Malnutrition,3,No,First,nobreastfeed
+Male,1,17,12-23 months,1,77.25,8.925,-1.78,No stunting,12.65,No Malnutrition,3,No,First,nobreastfeed
+Male,1,149,>=5 years,0,139.4,39.25,-1.74,No stunting,19.55,SAM,NA,No,Second,nobreastfeed
+Female,2,115,>=5 years,0,130.9,22.6,-0.83,No stunting,15.3,SAM,NA,No,Third and above,nobreastfeed
+Male,1,19,12-23 months,0,89.5,15.9,2.02,No stunting,18.95,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,23,12-23 months,0,85.45,13.4,-0.1,No stunting,17.6,No Malnutrition,3,No,First,nobreastfeed
+Female,2,22,12-23 months,0,81.75,11.05,-1.15,No stunting,16.95,No Malnutrition,3,No,Second,breasfeed
+Male,1,79,>=5 years,0,86.05,11,-6.53,Severe stunting,14.15,MAM,NA,No,Third and above,nobreastfeed
+Male,1,6,6-11 months,0,67.2,7.625,-0.57,No stunting,13.25,No Malnutrition,3,No,Third and above,breasfeed
+Male,1,24,2-5 years,0,84.2,10.75,-1.08,No stunting,14.9,No Malnutrition,3,Yes,Third and above,nobreastfeed
+Female,2,7,6-11 months,0,67.15,7,-0.65,No stunting,14.15,No Malnutrition,3,No,Second,breasfeed
+Male,1,68,>=5 years,1,112.05,19.8,-0.42,No stunting,17.65,No Malnutrition,NA,No,First,nobreastfeed
+Female,2,76,>=5 years,0,112.45,14,-0.92,No stunting,14.65,SAM,NA,No,Second,nobreastfeed
+Female,2,111,>=5 years,0,113.3,17.445,-3.39,Severe stunting,12.05,SAM,NA,No,Third and above,nobreastfeed
+Male,1,3,<6 months,0,60.15,4.6,-0.99,No stunting,12.6,SAM,3,No,First,nobreastfeed
+Male,1,3,<6 months,0,59.05,4.3,-1.52,No stunting,11.85,SAM,2,No,First,nobreastfeed
+Male,1,22,12-23 months,1,79.2,9.975,-2.36,Moderate stunting,16.05,No Malnutrition,3,No,First,nobreastfeed
+Female,2,9,6-11 months,1,71.35,5.67,-0.05,No stunting,13.5,SAM,3,No,Second,nobreastfeed
+Female,2,154,>=5 years,0,146.9,46.7,-1.28,No stunting,24.5,No Malnutrition,NA,Yes,Second,nobreastfeed
+Female,2,29,2-5 years,0,83.05,10.1,-2.09,Moderate stunting,15.45,No Malnutrition,3,No,First,nobreastfeed
+Male,1,37,2-5 years,NA,95.05,13.95,-0.52,No stunting,16.15,No Malnutrition,3,No,Third and above,nobreastfeed
+Male,1,10,6-11 months,0,44.95,6.5,-12.42,Severe stunting,12.8,No Malnutrition,3,No,First,breasfeed
+Female,2,65,>=5 years,0,117.15,23.65,1.05,No stunting,19.05,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,173,>=5 years,0,152,41.2,-1.82,No stunting,19.85,MAM,NA,No,First,nobreastfeed
+Male,1,30,2-5 years,0,88.45,12.025,-1.21,No stunting,14.45,No Malnutrition,3,No,Third and above,nobreastfeed
+Female,2,135,>=5 years,0,144.7,36.3,-0.33,No stunting,21,SAM,NA,No,Third and above,nobreastfeed
+Male,1,101,>=5 years,0,130.4,48.2,0.1,No stunting,24.1,No Malnutrition,NA,No,First,nobreastfeed
+Male,1,12,12-23 months,0,77.2,8,0.45,No stunting,12.7,MAM,3,No,Third and above,breasfeed
+Male,1,2,<6 months,0,72,3.75,6.49,No stunting,9.2,SAM,1,No,First,nobreastfeed
+Female,2,10,6-11 months,0,71.5,7.7,-0.39,No stunting,13,No Malnutrition,3,No,Third and above,breasfeed
+Female,2,23,12-23 months,0,75.2,8.2,-3.47,Severe stunting,12,MAM,2,No,Third and above,breasfeed
+Male,1,38,2-5 years,0,86.45,9.98,-2.91,Moderate stunting,15,MAM,3,No,Second,nobreastfeed
+Male,1,46,2-5 years,0,106,16.85,0.9,No stunting,15.7,No Malnutrition,3,No,Second,nobreastfeed
+Male,1,106,>=5 years,0,134.05,36.1,0.33,No stunting,18.75,No Malnutrition,NA,No,Third and above,nobreastfeed
+Male,1,26,2-5 years,0,83.6,12,-1.71,No stunting,15.45,No Malnutrition,3,No,Second,nobreastfeed
+Female,2,30,2-5 years,0,81.9,7.635,-2.55,Moderate stunting,11.15,SAM,1,No,Second,nobreastfeed
