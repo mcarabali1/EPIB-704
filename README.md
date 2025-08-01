@@ -50,7 +50,7 @@ Attention will also be given to exploratory data analysis (tabular and graphical
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Here you will find a list of the (tentative) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
 | **Date**           | **Topic**                                     | **Slides**                                       |
-|----------------   -|-----------------------------------------------|--------------------------------------------------|
+|--------------------|-----------------------------------------------|--------------------------------------------------|
 |28-Aug-25 |	Lecture 01 - Introduction EPIB 704 | |
 |02-Sep-25 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| |
 |04-Sep-25 |	Lecture 03 - Causal inference with DAGs| |
