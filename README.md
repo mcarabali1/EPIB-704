@@ -6,8 +6,8 @@
 
 **Schedule:** Tuesdays and Thursdays (08:35 AM -10:25 AM).
 
--   First class: August 28th, 2025.
--   Last class: December 2nd, 2025.
+-   First day of class: August 28th, 2025.
+-   Last day of class: December 2nd, 2025.
 
 **Teaching Assistants:**
 
