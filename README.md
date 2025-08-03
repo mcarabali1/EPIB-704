@@ -97,7 +97,7 @@ We have three options for you to import the assignments datasets into R:
   - b) Then, install the epib.704.data package: `remotes::install_github("mcarabali1/epib.704.data")`
 
 - Option 2: Install them directly in R using their URL:
-  - a) Assign the df URL to an R object: `urlfile <- "https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/Plato_FDA_470.csv"`
+  - a) Assign the df URL to an R object: `urlfile <- "https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/covidkenya.csv"`
   - b) Import the df into R: `mydata <- read.csv(url(urlfile))`
 
 - Option 3: Download the files directly from the repository onto your computer and import them into R.
