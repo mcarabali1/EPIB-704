@@ -2,9 +2,11 @@
 
 # EPIB 704: Doctoral Level Epidemiologic Methods I
 
+_Please note that this page is updated every teaching/academic year with new resources_
+
 **Instructor:** Mabel Carabali.
 
-**Schedule:** Tuesdays and Thursdays (08:35 AM -10:25 AM).
+**Schedule:** Tuesdays and Thursdays (10:30 AM -12:25 PM).
 
 -   First day of class: August 28th, 2025.
 -   Last day of class: December 2nd, 2025.
