@@ -1,0 +1,70 @@
+---
+title: |
+  ![](mcgill_logo_new.png){width=30in} 
+  
+  EPIB 704 – Epidemiologic Methods I
+subtitle: " "
+author: "Mabel Carabali"
+date: "Created: 2024-08-01 | Updated: `r Sys.Date()`"
+output:
+  html_document:
+    code_folding: hide
+    highlight: tango
+    theme: readable
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+  pdf_document: 
+    toc: yes
+    keep_tex: yes
+link-citations: yes
+linkcolor: blue
+urlcolor: red
+highlight: yellow
+---
+
+
+
+```{r setup, message=FALSE, warning=FALSE, include = FALSE}
+#knitr::opts_chunk$set(include = FALSE)
+##knitr::opts_chunk$set(echo = TRUE, eval=TRUE)
+
+set.seed(704)   
+
+packages <- c("tidyverse", "ggdag", "here", "dagitty", "broom", "scales", "patchwork", "table1",  "episensr", "epiR", "knitr", "emo", "jtools", "pssmisc", "komaletter", "kableExtra", "readxl", "readdr", "rmarkdown", "magrittr", "plotly", "gt", "gtsummary", "prettydoc")
+invisible(lapply(packages, function(xxx) suppressMessages(require(xxx, character.only = TRUE, quietly=TRUE, warn.conflicts = FALSE))))
+
+
+```
+
+# Lecture Schedule and Slides 
+
+
+| **Date**           | **Topic**                           | Slides   (pdf/html)           |
+|--------------------|-------------------------------------|-------------------------------|
+| August 29, 2024    | Lecture 01 - Introduction EPIB 704  | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/209d17c34e1e00d2c5549ae7386c4492a046e0f3/slides/L1_Introduction%20to%20EPIB%20704.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L1_EPIB704_v0.html) |
+| August 29, 2024    | Lecture 01 - Introduction EPIB 704    | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/209d17c34e1e00d2c5549ae7386c4492a046e0f3/slides/L1_Introduction%20to%20EPIB%20704.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L1_EPIB704_v0.html) |
+| September 3, 2024  | Lecture 02 - Statistical inference - Frequentist / Bayesian                                   |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/209d17c34e1e00d2c5549ae7386c4492a046e0f3/slides/L2_Statistical%20inference.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L2_EPIB704_stat_inference.html)   |
+| September 5, 2024  | Lecture 03 - Causal inference with DAGs                                                       | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/209d17c34e1e00d2c5549ae7386c4492a046e0f3/slides/L3_Directed%20Acyclic%20Graphs%20(DAGs).pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L3_EPIB704_DAG_intro.html)  |
+| September 10, 2024 | Lecture 04 - Measures of Occurrence                                                           |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/209d17c34e1e00d2c5549ae7386c4492a046e0f3/slides/L4_Measures%20of%20Occurrence.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L4_EPIB704_Occurrence.html) |
+| September 12, 2024 | Lecture 05 - Measures of Association                                                          |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d2e8cb4837164d0f7069fe7a39161e8dd9aeb02c/slides/L5_Measures%20of%20Association.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L5_EPIB704_Association.html)                                      |
+| September 17, 2024 | Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis                | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/209d17c34e1e00d2c5549ae7386c4492a046e0f3/slides/L6_Introduction%20to%20Time-to-Event.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/06a964b6bd322a1b08cd1c64c336132536f2a6a4/L6_Hazards_Intro1.html)    |
+| September 19, 2024 | Lecture 07 - Confounding (I)                                                                  |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/03d3a3c973ce76e9659d82050d59a388c44328dd/slides/L7_Confounding_I.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/04eba8d4242887d1904af76eecc5f30b5212c985/L7_EPIB704_Confounding.html)       |
+| September 24, 2024 | Lecture 08 - Confounding (II)                                                                 |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/921197d43402abc4b37aec86ce8431708e3a49cd/slides/L8_Confounding_II.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/93fce8fc8a2d345824dc7eedd02e61cc1611314b/L8_EPIB704_Confounding_II.html)        |
+| September 26, 2024 | Lecture 09 - Linear regression (with an introduction to Bayesian models)                      |   [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b7d1fbc84e34c7d3c9cd7cf84cf9aa9e287dcfb3/slides/L9_Linear%20regression.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/0ee33ea75e4ece3d347925620663ddf9baac8b63/L9_EPIB704_linear_regression.html)       |
+| October 1 and 3, 2024    | Lecture 10 & 11 - Logistic regression Part 1 and 2                                             | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bdbf7aeff3dde3be07fcefd8c04560200347db9a/slides/L10_Logistic%20regression%20(Part%201%20and%202).pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/438076c7d6228b8435f027033bff267f58745810/L10_EPIB704_Logistic_v2.html)  |
+| October 8, 2024    | Lecture 12 - Logistic vs binomial regressions and other alternatives to model binary outcomes | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/539a56ae5fde36c9669fa3bb305d476ced7f89c1/slides/L12_Binomial%20alternatives%20to%20model%20binary%20outcomes.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/e18e758be660eadf8c7b78d6059d3bc1252e3e12/L12_EPIB704_Alternative_Binary_Models.html)                |
+| October 10, 2024   | Lecture 13 - Effect Measure Modification & Interaction (I)                                    |     [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/6be63f7a32a8ba63f57c7dcb3d2d4d2529055f9f/slides/L14_Interaction%20and%20EMM%20Part%201.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/0dbda0f8488249fa0a5ff802e0587b9b50e611eb/L14_EPIB704_Interaction_Part1.html)   |
+| October 22, 2024   | Lecture 14 - Effect Measure Modification & Interaction (II)                                   |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/6be63f7a32a8ba63f57c7dcb3d2d4d2529055f9f/slides/L15_Interaction%20and%20EMM%20Part%202.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/0dbda0f8488249fa0a5ff802e0587b9b50e611eb/L15_EPIB704_Interaction_Part2.html)   |
+| October 24, 2024   | Lecture 15 - Treatment effects                                                                |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/6be63f7a32a8ba63f57c7dcb3d2d4d2529055f9f/slides/L16_Randomized%20Clinical%20Trials%20&%20TE.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/0dbda0f8488249fa0a5ff802e0587b9b50e611eb/L16_EPIB704_RCT_TE.html)    |
+| October 29, 2024   | Lecture 16 - Randomized clinical trials (RCTs)                                                | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/1a766db5a67f4d5e03358b0f1f2b0ea04a7301b1/slides/L16_Randomized%20Clinical%20Trials%20&%20TE.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/1f6317d973a8258ec5391f4be4e0ac56cf41eff7/L16_EPIB704_RCT_TE.html)    |
+| October 31, 2024   | Lecture 17 -  Matching and conditional Logistic Regression        | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/1a766db5a67f4d5e03358b0f1f2b0ea04a7301b1/slides/L17_EPIB704_Matching%20&%20Conditional%20Logistic%20Regression.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/1f6317d973a8258ec5391f4be4e0ac56cf41eff7/L17_EPIB704_Matching_and_conditional_LR.html)         |
+| November 5, 2024   | Lecture 18 - Propensity score                                     | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/1a766db5a67f4d5e03358b0f1f2b0ea04a7301b1/slides/L18_EPIB704_Propensity%20Scores.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/1f6317d973a8258ec5391f4be4e0ac56cf41eff7/L18_EPIB704_Propensity_Scores.html)   |
+| November 7, 2024   | Lecture 19 - Selection bias - core concepts                                                   | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b7f848b7b1a2ee0c3ef72ca70775d5dbc1c2d428/slides/L19_Selection%20Bias%20-%20Core%20concepts.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/827d75e12faba59a4510ac61554ac5f730882d5e/L19_EPIB704_Selection_Bias.html)     | 
+| November 12, 2024  | Lecture 20 - Measurement error - Core concepts                                                |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b7f848b7b1a2ee0c3ef72ca70775d5dbc1c2d428/slides/L20_Measurement%20Error%20-%20Core%20concepts.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/827d75e12faba59a4510ac61554ac5f730882d5e/L20_EPIB704_Measurement_Error_st.html)  | 
+| November 14, 2024  | Lecture 21 - Target trial                                                                     | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/17258cdf9392785f3078a181fcd9c8532e8de705/slides/2024-11%20TT%20TND%20v2.pdf)   |
+| November 19, 2024  | Lecture 22 - Poisson Regression                                                               |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/4132328e742ad35757766fa0bfc8fadca104144c/slides/L21_Poisson%20Regression%20-%20Basic%20concepts.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/827d75e12faba59a4510ac61554ac5f730882d5e/L21_EPIB704_Poisson_Regression.html)    |
+| November 21, 2024  | Lecture 23 - Model building/selection                                                         | [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b7f848b7b1a2ee0c3ef72ca70775d5dbc1c2d428/slides/L22_Model%20selection.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/827d75e12faba59a4510ac61554ac5f730882d5e/L22_EPIB704_Model_Building.html)      |
+| November 28, 2024  | Lecture 24 - Hierarchical models                                                              | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/c9e379afb69020e861c0f2b17889c0913a756369/L23_EPIB704_Hierarchical_Models.html)     |
+| December 3, 2024   | Lecture 25 - Misc /Data visualizations           |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/1ae31a05711aac40de93833673d881c27ca2ae20/slides/L25_Data%20visualization.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/e70d018a9ad70a54b1ad704d455918b7f643cd3e/L25_Data%20visualization.html)   |
+
