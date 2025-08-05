@@ -68,3 +68,5 @@ invisible(lapply(packages, function(xxx) suppressMessages(require(xxx, character
 | November 28, 2024  | Lecture 24 - Hierarchical models                                                              | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/c9e379afb69020e861c0f2b17889c0913a756369/L23_EPIB704_Hierarchical_Models.html)     |
 | December 3, 2024   | Lecture 25 - Misc /Data visualizations           |  [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/1ae31a05711aac40de93833673d881c27ca2ae20/slides/L25_Data%20visualization.pdf), [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/e70d018a9ad70a54b1ad704d455918b7f643cd3e/L25_Data%20visualization.html)   |
 
+_We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects._ 
+
