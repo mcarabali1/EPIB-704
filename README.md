@@ -76,10 +76,10 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |23-Oct-25 |	Lecture 15 - Effect Measure Modification & Interaction (I)| |
 |28-Oct-25 |	Lecture 16 - Effect Measure Modification & Interaction (II)| |
 |30-Oct-25 |	Lecture 17 - Poisson Regression| |
-|04-Nov-25 |	Lecture 18 - Treatment effects & Randomized clinical trials (RCTs)| |
-|06-Nov-25 |	Lecture 19 - Target Trial| |
+|04-Nov-25 |	Lecture 18 - Introduction to Cluster/Hierarchical Models | |
+|06-Nov-25 |	Lecture 19 - Treatment effects & Randomized clinical trials (RCTs) | |
 |11-Nov-25 |	Lecture 20 - Propensity score| |
-|13-Nov-25 |	Lecture 21 - Introduction to Cluster/Hierarchical Models| |
+|13-Nov-25 |	Lecture 21 - Target Trial| |
 |18-Nov-25 |	Lecture 22 - Selection bias - core concepts| |
 |20-Nov-25 |	Lecture 23 - Measurement error - Core concepts| |
 |25-Nov-25 |	Lecture 24 - Model building/selection| |
