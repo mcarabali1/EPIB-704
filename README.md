@@ -64,7 +64,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 | **Date**           | **Topic**                                     | **Slides**                                       |
 |--------------------|-----------------------------------------------|--------------------------------------------------|
-|28-Aug-25 |	Lecture 01 - Introduction EPIB 704 | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/380b47625291fa531f09b6974e093a20914011be/L1_EPIB704_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/9954b1db979b708a7b8e92e9185a88a6e75d8b31/slides/L1_Introduction_2025.pdf)|
+|28-Aug-25 |	Lecture 01 - Introduction EPIB 704 | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/380b47625291fa531f09b6974e093a20914011be/L1_EPIB704_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b73d0c6f4cda33a7bc97d38dbf9ceb77f9b69d9f/slides/L1_Introduction_2025.pdf)|
 |02-Sep-25 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| |
 |04-Sep-25 |	Lecture 03 - Causal inference with DAGs| |
 |09-Sep-25 |	Lecture 04 - Measures of Occurrence| |
