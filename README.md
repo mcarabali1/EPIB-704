@@ -13,7 +13,12 @@ _Please note that this page is updated every teaching/academic year with new res
 
 **Teaching Assistants:**
 
--   TBD
+-   Julia Brillinger
+-   Gabrielle Jacob
+
+**TA HOURS**
+- Monday: 10 - 11 AM in Rm 1122
+- Wednesday: 10 - 11 AM in Rm 1122
 
 # Course Description
 
