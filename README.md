@@ -65,8 +65,8 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 | **Date**           | **Topic**                                     | **Slides**                                       |
 |--------------------|-----------------------------------------------|--------------------------------------------------|
 |28-Aug-25 |	Lecture 01 - Introduction EPIB 704 | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/380b47625291fa531f09b6974e093a20914011be/L1_EPIB704_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b73d0c6f4cda33a7bc97d38dbf9ceb77f9b69d9f/slides/L1_Introduction_2025.pdf)|
-|02-Sep-25 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d3ce9d6f4214718efd2a4547d95fec247d9cecb1/slides/L2_Statisticalinference2025.pdf)|
-|04-Sep-25 |	Lecture 03 - Causal inference with DAGs| [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d3ce9d6f4214718efd2a4547d95fec247d9cecb1/slides/L3_DAGs2025.pdf)|
+|02-Sep-25 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/68b5d45f60c37fa3f4a2224c9d3d8138da2873d5/L2_EPIB704_stat_inference_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d3ce9d6f4214718efd2a4547d95fec247d9cecb1/slides/L2_Statisticalinference2025.pdf)|
+|04-Sep-25 |	Lecture 03 - Causal inference with DAGs| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/68b5d45f60c37fa3f4a2224c9d3d8138da2873d5/L3_EPIB704_DAG_intro_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d3ce9d6f4214718efd2a4547d95fec247d9cecb1/slides/L3_DAGs2025.pdf)|
 |09-Sep-25 |	Lecture 04 - Measures of Occurrence| |
 |11-Sep-25 |	Lecture 05 - Measures of Association (I)| |
 |16-Sep-25 |	Lecture 06 - Measures of Association (II)| |
