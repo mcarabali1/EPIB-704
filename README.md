@@ -68,7 +68,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |02-Sep-25 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/68b5d45f60c37fa3f4a2224c9d3d8138da2873d5/L2_EPIB704_stat_inference_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d3ce9d6f4214718efd2a4547d95fec247d9cecb1/slides/L2_Statisticalinference2025.pdf)|
 |04-Sep-25 |	Lecture 03 - Causal inference with DAGs| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/68b5d45f60c37fa3f4a2224c9d3d8138da2873d5/L3_EPIB704_DAG_intro_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/d3ce9d6f4214718efd2a4547d95fec247d9cecb1/slides/L3_DAGs2025.pdf)|
 |09-Sep-25 |	Lecture 04 - Measures of Occurrence| [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/7c802e81babb35ff6c6688fd144c5e5e2b78b17b/slides/L4_Measures%20of%20Occurrence.pdf)|
-|11-Sep-25 |	Lecture 05 - Measures of Association (I)|[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/4b1932405bbf405c6ee7d5e67fda2f9134200632/slides/L5%20Measures%20of%20Association.pdf) |
+|11-Sep-25 |	Lecture 05 - Measures of Association (I)|[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/4b1932405bbf405c6ee7d5e67fda2f9134200632/slides/L5%20Measures%20of%20Association.pdf)|
 |16-Sep-25 |	Lecture 06 - Measures of Association (II)| |
 |18-Sep-25 |	Lecture 07 - Risk & Hazards - Introduction to the concept of Survival Analysis| |
 |23-Sep-25 |	Lecture 08 - Confounding (I)| |
