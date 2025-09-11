@@ -94,12 +94,14 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 
 # Data for Assignments 
 
-Data for assignments can be found in the [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. 
+Data for assignments can be found in the folder: [EPIB-704
+/EPIB704_HW_data_2025/](https://github.com/mcarabali1/EPIB-704/tree/main/EPIB704_HW_data_2025) or in the overall data folder [/EPIB-704/tree/main/data](https://github.com/mcarabali1/EPIB-704/tree/main/data) folder. 
 We have three options for you to import the assignments datasets into R:
 
 - Option 1: Install our epib.704 package:
   - a) First, install the remotes package: `install.packages("remotes")`
   - b) Then, install the epib.704.data package: `remotes::install_github("mcarabali1/epib.704.data")`
+  - c) Select and load the respective dataset by using `epib.704.data::datasetname` 
 
 - Option 2: Install them directly in R using their URL:
   - a) Assign the df URL to an R object: `urlfile <- "https://raw.githubusercontent.com/mcarabali1/EPIB-704/main/data/covidkenya.csv"`
