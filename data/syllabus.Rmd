@@ -66,11 +66,20 @@ The overarching goal is to establish and strengthen the foundation of epidemiolo
 
 The objective of EPIB 704 is to provide students with a **deeper theoretical understanding** of the foundations of epidemiology some and empirical tools for data handling, data analysis, critical thinking and interpretation of the epidemiological inference. This course is also an entry point for advanced epidemiology (e.g., advanced knowledge of traditional biases), specially an introduction to modern methods. Hence, the emphasis on keep it up with the literature. EPIB 704 will equip student with strategies to:
 
-1) identify common threats of the validity or biases, 
+1) Identify common threats of the validity or biases, 
 
-2) identify and interpret their effects in the measurement of associations, and 
+2) Identify and interpret their effects in the measurement of associations, and 
 
-3) identify opportunities to investigate, correct, and address these biases. 
+3) Identify opportunities to investigate, correct, and address these biases. 
+
+## Learning Outcomes
+
+By the end of this course you should be able to:
+
+1. Contrast advantages and disadvantages of Frequentist and Bayesian statistical inference
+2. Recommend analytical approaches to each (every) different study designs
+3. Identify the presence of potential threats to the validity of a statistical analysis
+4. Design a basic statistical analysis plan to answer a given research question accounting for threats to the validity
 
 ## Instructional Methods
 
