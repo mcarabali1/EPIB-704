@@ -70,7 +70,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |09-Sep-25 |	Lecture 04 - Measures of Occurrence| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/fbd40889d51822eaee4eda2cf866224d383f5ffb/L4_EPIB704_Occurrence_25.html#1); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/7c802e81babb35ff6c6688fd144c5e5e2b78b17b/slides/L4_Measures%20of%20Occurrence.pdf)|
 |11-Sep-25 |	Lecture 05 - Measures of Association (I)|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/fbd40889d51822eaee4eda2cf866224d383f5ffb/L5_EPIB704_Association_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/4b1932405bbf405c6ee7d5e67fda2f9134200632/slides/L5%20Measures%20of%20Association.pdf)|
 |16-Sep-25 |	Lecture 06 - Measures of Association (II)||
-|18-Sep-25 |	Lecture 07 - Risk & Hazards - Introduction to the concept of Survival Analysis|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9c002003602d190e07a88b5d61bfbcfc42694fca/L6_Hazards_Intro_25.html) |
+|18-Sep-25 |	Lecture 07 - Risk & Hazards - Introduction to the concept of Survival Analysis|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9c002003602d190e07a88b5d61bfbcfc42694fca/L6_Hazards_Intro_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/3a97a2865bf96149c82ed49e63969429b12864e0/slides/L6_IntroductiontoTime-to-Event.pdf) |
 |23-Sep-25 |	Lecture 08 - Confounding (I)| |
 |25-Sep-25 |	Lecture 09 - Confounding (II)| |
 |30-Sep-25 |	Lecture 10 - Linear regression (with an introduction to Bayesian models)| |
