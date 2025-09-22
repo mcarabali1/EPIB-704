@@ -71,8 +71,8 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |11-Sep-25 |	Lecture 05 - Measures of Association (I)|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/fbd40889d51822eaee4eda2cf866224d383f5ffb/L5_EPIB704_Association_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/4b1932405bbf405c6ee7d5e67fda2f9134200632/slides/L5%20Measures%20of%20Association.pdf)|
 |16-Sep-25 |	Lecture 06 - Measures of Association (II)||
 |18-Sep-25 |	Lecture 07 - Risk & Hazards - Introduction to the concept of Survival Analysis|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9c002003602d190e07a88b5d61bfbcfc42694fca/L6_Hazards_Intro_25.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/3a97a2865bf96149c82ed49e63969429b12864e0/slides/L6_IntroductiontoTime-to-Event.pdf) |
-|23-Sep-25 |	Lecture 08 - Confounding (I)| |
-|25-Sep-25 |	Lecture 09 - Confounding (II)| |
+|23-Sep-25 |	Lecture 08 - Confounding (I)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/efdf9446c91c27adf2a038e51438a9c8640af4e3/L7_EPIB704_Confounding_25.html) |
+|25-Sep-25 |	Lecture 09 - Confounding (II)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/efdf9446c91c27adf2a038e51438a9c8640af4e3/L8_EPIB704_Confounding_II_25.html) |
 |30-Sep-25 |	Lecture 10 - Linear regression (with an introduction to Bayesian models)| |
 |02-Oct-25 |	Lecture 11- Logistic regression 1 - introduction| |
 |07-Oct-25 |	Lecture 12 - Logistic regression part 2 - worked Bayesian example| |
