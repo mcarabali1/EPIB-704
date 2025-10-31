@@ -78,7 +78,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |07-Oct-25 |	Lecture 12 - Logistic regression part 2 - worked Bayesian example| |
 |09-Oct-25 |	Lecture 13 - Logistic vs binomial regressions and other alternatives to model binary outcomes|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9e84d899126ce0848042b7725466c9323f80be03/L12_EPIB704_Alternative_Binary_Models_25.html#1);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/49ee454d3028cb175556ba9382dce915d3d9cf6c/slides/L13LogisticBinomialregressionsandotheralternatives.pdf) |
 |21-Oct-25 |	Lecture 14 - Matching and conditional Logistic Regression | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/2926cffaaa3e98292ea2ff77162ae5ca2c1fa851/L17_EPIB704_Matching_and_conditional_LR_25.html) ;[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/49ee454d3028cb175556ba9382dce915d3d9cf6c/slides/L14matchingandconditionallogisticregression.pdf)|
-|23-Oct-25 |	Lecture 15 - Effect Measure Modification & Interaction (I)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/2926cffaaa3e98292ea2ff77162ae5ca2c1fa851/L14_EPIB704_Interaction_Part_25.html)|
+|23-Oct-25 |	Lecture 15 - Effect Measure Modification & Interaction (I)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/2926cffaaa3e98292ea2ff77162ae5ca2c1fa851/L14_EPIB704_Interaction_Part_25.html);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/a75112893fac391e0b6fac9e6e504ff7839e0e50/slides/L15%20Effect%20Measure%20Modification%20and%20Interaction%20I.pdf)|
 |28-Oct-25 |	Lecture 16 - Effect Measure Modification & Interaction (II)| |
 |30-Oct-25 |	Lecture 17 - Poisson Regression| |
 |04-Nov-25 |	Lecture 18 - Introduction to Cluster/Hierarchical Models | |
