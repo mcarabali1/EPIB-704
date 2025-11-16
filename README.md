@@ -79,14 +79,14 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |09-Oct-25 |	Lecture 13 - Logistic vs binomial regressions and other alternatives to model binary outcomes|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9e84d899126ce0848042b7725466c9323f80be03/L12_EPIB704_Alternative_Binary_Models_25.html#1);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/49ee454d3028cb175556ba9382dce915d3d9cf6c/slides/L13LogisticBinomialregressionsandotheralternatives.pdf) |
 |21-Oct-25 |	Lecture 14 - Matching and conditional Logistic Regression | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/2926cffaaa3e98292ea2ff77162ae5ca2c1fa851/L17_EPIB704_Matching_and_conditional_LR_25.html) ;[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/49ee454d3028cb175556ba9382dce915d3d9cf6c/slides/L14matchingandconditionallogisticregression.pdf)|
 |~~30-Oct-25~~ |	Lecture 17 - Poisson Regression| |
-|04-Nov-25 |	Lecture 18 - Introduction to Cluster/Hierarchical Models | |
-|06-Nov-25 |	Lecture 19 - Treatment effects & the target trial | |
-|11-Nov-25 |	Lecture 20 - Correlated data | |
+|04-Nov-25 |	Lecture 18 - Introduction to Cluster/Hierarchical Models (guest lecture) | |
+|06-Nov-25 |	Lecture 19 - Treatment effects & the target trial (guest lecture) | |
+|11-Nov-25 |	Lecture 20 - Correlated Data - IPD-MA analysis (guest lecture) | |
 |13-Nov-25 ~~23-Oct-25~~ |	Lecture 21 - Effect Measure Modification & Interaction (I)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/2926cffaaa3e98292ea2ff77162ae5ca2c1fa851/L14_EPIB704_Interaction_Part_25.html);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/a75112893fac391e0b6fac9e6e504ff7839e0e50/slides/L15%20Effect%20Measure%20Modification%20and%20Interaction%20I.pdf)|
 |18-Nov-25 ~~28-Oct-25~~ |	Lecture 22 - Effect Measure Modification & Interaction (II)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/37861d2b7922a3a2361097cb4c737f8745bf62b3/L15_EPIB704_Interaction_Part2.html#101);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/36baaae5bfde75a9e66df56ace2c14aa1ff9323a/slides/L16%20Effect%20Measure%20Modification%20and%20Interaction%20II.pdf)|
-|20~~11~~-Nov-25 |	Lecture 23 - Propensity score| |
-|25~~20~~-Nov-25 |	Lecture 24 - Measurement error - Core concepts| |
-|27~~18~~-Nov-25 |	Lecture 25 - Selection bias - core concepts| |
+|20-Nov-25 ~~11-Nov-25~~ |	Lecture 23 - Propensity score| |
+|25-Nov-25 ~~20-Nov-25~~ |	Lecture 24 - Measurement error - Core concepts| |
+|27-Nov-25 ~~18-Nov-25~~ |	Lecture 25 - Selection bias - core concepts| |
 |02-Dec-25 ~~20-Nov-25~~ |	Lecture 26 - Introduction to Quasi-Experimental Designs & Model building/selection| |
 
 # Data for Assignments 
