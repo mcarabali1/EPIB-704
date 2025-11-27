@@ -86,7 +86,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |18-Nov-25 ~~28-Oct-25~~ |	Lecture 22 - Effect Measure Modification & Interaction (II)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/37861d2b7922a3a2361097cb4c737f8745bf62b3/L15_EPIB704_Interaction_Part2.html#101);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/36baaae5bfde75a9e66df56ace2c14aa1ff9323a/slides/L16%20Effect%20Measure%20Modification%20and%20Interaction%20II.pdf)|
 |20-Nov-25 ~~11-Nov-25~~ |	Lecture 23 - Propensity score|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/719ff36d5920c72040abba87c7dcbcf47bee3854/L18_EPIB704_Propensity_Scores_25_Essentials.html);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/2e62a1b78ed9514c856da99dade8a81a171c380f/slides/L18%20Propensity%20Scores1.pdf) |
 |25-Nov-25 ~~20-Nov-25~~ |	Lecture 24 - Measurement error - Core concepts|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/72a2204a246ca56acad54c5ad258a80614be92f6/L20_EPIB704_Measurement_Error_st_25.html);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/2e62a1b78ed9514c856da99dade8a81a171c380f/slides/L19%20Measurement%20Error%20core%20concepts.pdf) |
-|27-Nov-25 ~~18-Nov-25~~ |	Lecture 25 - Selection bias - core concepts| |
+|27-Nov-25 ~~18-Nov-25~~ |	Lecture 25 - Selection bias - core concepts|[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b8544bc27ee3d65212647c313f1249b6e0821a26/slides/L20%20Selection%20Bias.pdf) |
 |02-Dec-25 ~~20-Nov-25~~ |	Lecture 26 - Introduction to Quasi-Experimental Designs & Model building/selection| |
 
 # Data for Assignments 
