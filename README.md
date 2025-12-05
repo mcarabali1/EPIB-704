@@ -88,7 +88,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |25-Nov-25 ~~20-Nov-25~~ |	Lecture 24 - Measurement error - Core concepts|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/72a2204a246ca56acad54c5ad258a80614be92f6/L20_EPIB704_Measurement_Error_st_25.html);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/2e62a1b78ed9514c856da99dade8a81a171c380f/slides/L19%20Measurement%20Error%20core%20concepts.pdf) |
 |27-Nov-25 ~~18-Nov-25~~ |	Lecture 25 - Selection bias - core concepts|[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/b8544bc27ee3d65212647c313f1249b6e0821a26/slides/L20%20Selection%20Bias.pdf) |
 |02-Dec-25 ~~20-Nov-25~~ |	Lecture 26 - Introduction to Quasi-Experimental Designs|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/35fa56dc6ec7f20ffe8c24631583ac75793bbb46/Lecture-26_RDD_JB.html);[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/4288b9ee5bdb4c339f7ad76a1c3b034efd5ec382/slides/Lecture%2026_RDD_JB.pdf) |
-|02-Dec-25 |	Lecture 27 - Model building/selection| |
+|02-Dec-25 |	Lecture 27 - Model building/selection| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9c33deb791645e9d44e40d1a52cd1ee22634692e/L22_EPIB704_Model_Building_25.html) |
 
 # Data for Assignments 
 
