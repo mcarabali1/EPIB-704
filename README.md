@@ -26,7 +26,7 @@ This is a first semester doctoral level course in epidemiological theory and the
 ### GOALS
 The overarching goal is to establish and strengthen the foundation of epidemiological knowledge, by providing the basis of epidemiology, addressing fundamental and advanced aspects of descriptive epidemiology, causal inference, and data analysis tied to the identification of best practices given the numerous study designs.
 
-### OBJECTIVE
+## OBJECTIVE
 The objective of EPIB 704 is to provide students with a **deeper theoretical understanding** of the foundations of epidemiology and some empirical tools for data handling, data analysis, critical thinking and interpretation of the epidemiological inference. This course is also an entry point for advanced epidemiology (e.g., advanced knowledge of traditional biases), especially an introduction to modern methods. Hence, the emphasis on keep it up with the literature. EPIB 704 will equip student with strategies to:
 
 1) Identify common threats of the validity or biases, 
@@ -35,7 +35,7 @@ The objective of EPIB 704 is to provide students with a **deeper theoretical und
 
 3) Identify opportunities to investigate, correct, and address these biases. 
 
-## Learning Outcomes
+### Learning Outcomes
 
 By the end of this course you should be able to:
 
@@ -89,7 +89,7 @@ Other readings will be assigned each week from published journal articles **<spa
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Following the document provided beforehand during the admission process. Here you will find a list of the (proposed) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
 | **Topic**                                     | **Slides**                                       |
-|--------------------|-----------------------------------------------|--------------------------------------------------|
+|------------------------------------------------------------------|--------------------------------------------------|
 |	Lecture 01 - Introduction EPIB 704 | [html](); [pdf]()|
 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](); [pdf]()|
 |	Lecture 03 - Treatment effects & Randomized clinical trials (RCTs) | [html](); [pdf]()|
