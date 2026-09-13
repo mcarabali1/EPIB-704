@@ -89,7 +89,7 @@ Other readings will be assigned each week from published journal articles **<spa
 We have pre-selected a list of topics to go through the 13 weeks-long course. Each lecture is aimed at addressing specific epidemiological concepts, addressing both theoretical and analytic/practical aspects. At the beginning of each lecture/topic I will present the learning objectives and expectation. Following the document provided beforehand during the admission process. Here you will find a list of the (proposed) Lectures. The recommended readings and links to other resources will be posted on MyCourses by the start of the academic semester.
 
 | **Topic**                                     | **Slides**                                       |
-|--------------------|-----------------------------------------------|--------------------------------------------------|
+|-------------------------------------------------------------------|--------------------------------------------------|
 |	Lecture 01 - Introduction EPIB 704 | [html](); [pdf]()|
 |	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](); [pdf]()|
 |	Lecture 03 - Treatment effects & Randomized clinical trials (RCTs) | [html](); [pdf]()|
