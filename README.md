@@ -121,7 +121,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 # Data for Assignments 
 
 Data for assignments can be found in the folder: [EPIB-704
-/EPIB704_HW_data_2025/](https://github.com/mcarabali1/EPIB-704/tree/main/EPIB704_HW_data_2025) or in the overall data package. 
+/EPIB704_HW_data_2026/](https://github.com/mcarabali1/EPIB-704/tree/main/EPIB704_HW_data_2026) or in the overall data package. 
 We have three options for you to import the assignments datasets into R:
 
 - Option 1: Install our epib.704 package:
