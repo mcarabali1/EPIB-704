@@ -26,3 +26,5 @@ Associated_pelvis_injury;Associated pelvis injury ;Nominal;0: No | 1: Yes
 Associated_MRT;Associated MRT ;Nominal;0: No | 1: Yes
 Associated_limb_injury;Associated limb injury ;Nominal;0: No | 1: Yes
 Associated_face_neck_injury;Associated face and/or neck injury (except spine) ;Nominal;0: No | 1: Yes
+Sex; Sex assigned at birth; F= Female | M=Male
+GCS_severity; Categorical scale from GCS; 0= Mild|1=Moderate |2=Severe
