@@ -91,7 +91,7 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 | **Topic**                                     | **Slides**                                       |
 |------------------------------------------------------------------|--------------------------------------------------|
 |	Lecture 01 - Introduction EPIB 704 | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a4d7f2eba8f0653fcbc331e1297d96f65d02d6ad/L1_EPIB704_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/0c4318049d347a8a67b47de432af7e4c764c5adb/Slides%202026/L1_Introduction%20to%20EPIB%20704.pdf)|
-|	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](); [pdf]()|
+|	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L2_EPIB704_stat_inference_26.html); [pdf]()|
 |	Lecture 03 - Treatment effects & Randomized clinical trials (RCTs) | [html](); [pdf]()|
 |	Lecture 04 - Measures of Occurrence| [html](); [pdf]()|
 |	Lecture 05 - Measures of Association (I)|[html](); [pdf]()|
