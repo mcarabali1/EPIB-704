@@ -91,13 +91,13 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 | **Topic**                                     | **Slides**                                       |
 |------------------------------------------------------------------|--------------------------------------------------|
 |	Lecture 01 - Introduction EPIB 704 | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/a4d7f2eba8f0653fcbc331e1297d96f65d02d6ad/L1_EPIB704_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/0c4318049d347a8a67b47de432af7e4c764c5adb/Slides%202026/L1_Introduction%20to%20EPIB%20704.pdf)|
-|	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L2_EPIB704_stat_inference_26.html); [pdf]()|
+|	Lecture 02 - Statistical inference - Frequentist / Bayesian| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L2_EPIB704_stat_inference_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L2_Statistical%20inference.pdf)|
 |	Lecture 03 - Treatment effects & Randomized clinical trials (RCTs) | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L3_EPIB704_RCT_TE_26.html); [pdf]()|
-|	Lecture 04 - Measures of Occurrence| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L4_EPIB704_Occurrence_26.html); [pdf]()|
-|	Lecture 05 - Measures of Association (I)|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L5_EPIB704_Association_26.html); [pdf]()|
-|	Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L6_Hazards_Intro_26.html); [pdf]()|
-|	Lecture 07 - Causal inference with DAGs | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L7_EPIB704_DAG_intro_26.html); [pdf]()|
-|	Lecture 08 - Confounding (I)| [html] (); [pdf]()|
+|	Lecture 04 - Measures of Occurrence| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L4_EPIB704_Occurrence_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L4_Measures%20of%20Occurrence.pdf)|
+|	Lecture 05 - Measures of Association (I)|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L5_EPIB704_Association_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L5_Measures%20of%20Association.pdf)|
+|	Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L6_Hazards_Intro_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L6_Directed%20Acyclic%20Graphs%20(DAGs)_st.pdf)|
+|	Lecture 07 - Causal inference with DAGs | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L7_EPIB704_DAG_intro_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L7_Introduction%20to%20Time-to-Event_st.pdf)|
+|	Lecture 08 - Confounding (I)| [html] (); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L8_Confounding_I.pdf)|
 |	Lecture 09 - Confounding (II)| [html] (); [pdf]()|
 |	Lecture 10 - Linear regression (with an introduction to Bayesian models)| |
 |	Lecture 11 - Logistic regression 1 - introduction| |
