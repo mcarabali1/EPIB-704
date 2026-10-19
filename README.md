@@ -98,9 +98,9 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |	Lecture 06 - Risk & Hazards - Introduction to the concept of Survival Analysis| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L6_Hazards_Intro_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L6_Directed%20Acyclic%20Graphs%20(DAGs)_st.pdf)|
 |	Lecture 07 - Causal inference with DAGs | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L7_EPIB704_DAG_intro_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L7_Introduction%20to%20Time-to-Event_st.pdf)|
 |	Lecture 08 - Confounding (I)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3cf9a66ffd5e570af0e898a1ca675b932684e0c7/L8_EPIB704_Confounding_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/bbd2a6610613d6a0c34750af7a35c65461bbd7e5/Slides%202026/L8_Confounding_I.pdf)|
-|	Lecture 09 - Confounding (II)| [html] (); [pdf]()|
-|	Lecture 10 - Linear regression (with an introduction to Bayesian models)| |
-|	Lecture 11 - Logistic regression 1 - introduction| |
+|	Lecture 09 - Confounding (II)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9d49193cff6d1a93b303a8ee0f45a3ede23e5ae4/L9_EPIB704_Confounding_II_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/328d5e64ae69507e1433ec25903a11dc41bee5d4/Slides%202026/L9_Confounding%20II.pdf)|
+|	Lecture 10 - Linear regression (with an introduction to Bayesian models)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/761f1ab26a9179bce0dde7dc70faba9910bb3bd8/L10_EPIB704_linear_regression_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/328d5e64ae69507e1433ec25903a11dc41bee5d4/Slides%202026/L10_Linear%20regression.pdf)|
+|	Lecture 11 - Logistic regression 1 - introduction| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/6d4816d4811f56e950198bec5a409461b335f722/L11_EPIB704_Logistic_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/328d5e64ae69507e1433ec25903a11dc41bee5d4/Slides%202026/L11_Logistic%20regression.pdf)|
 |	Lecture 12 - Logistic regression part 2 - worked Bayesian example| |
 |	Lecture 13 - Logistic vs binomial regressions and other alternatives to model binary outcomes| |
 |	Lecture 14 - Propensity score  | |
