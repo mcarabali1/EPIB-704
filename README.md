@@ -101,9 +101,9 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |	Lecture 09 - Confounding (II)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/9d49193cff6d1a93b303a8ee0f45a3ede23e5ae4/L9_EPIB704_Confounding_II_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/328d5e64ae69507e1433ec25903a11dc41bee5d4/Slides%202026/L9_Confounding%20II.pdf)|
 |	Lecture 10 - Linear regression (with an introduction to Bayesian models)| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/761f1ab26a9179bce0dde7dc70faba9910bb3bd8/L10_EPIB704_linear_regression_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/328d5e64ae69507e1433ec25903a11dc41bee5d4/Slides%202026/L10_Linear%20regression.pdf)|
 |	Lecture 11 - Logistic regression 1 - introduction| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/6d4816d4811f56e950198bec5a409461b335f722/L11_EPIB704_Logistic_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/328d5e64ae69507e1433ec25903a11dc41bee5d4/Slides%202026/L11_Logistic%20regression.pdf)|
-|	Lecture 12 - Logistic regression part 2 - worked Bayesian example| |
-|	Lecture 13 - Logistic vs binomial regressions and other alternatives to model binary outcomes| |
-|	Lecture 14 - Propensity score  | |
+|	Lecture 12 - Logistic regression part 2 - worked Bayesian example| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/0e3e020cbbd6a838db561aaba2383d860cdeec9f/L12_EPIB704_Alternative_Binary_Models_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/a8270f5c66c13c1ccdb865d7297c23ce2a974dfe/Slides%202026/L12_Logistic%20vs%20Binomial%20regressions%20and%20other%20alternatives%20to%20model%20binary%20outcomes.pdf)|
+|	Lecture 13 - Essentials of Propensity score | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/e6ffd835d65ad03cbdcf369a351b1848aedee177/L13_EPIB704_Essentials_Propensity_Scores_26_Essentials.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/48eeba928ee7c05408a15bbe79a82566867cca4c/Slides%202026/L13_Propensity%20Scores.pdf) |
+|	Lecture 14 - Propensity score | |
 |	Lecture 15 - Matching and conditional Logistic Regression | |
 |	Lecture 16 - Poisson Regression | |
 |	Lecture 17 - Correlated Data* / IPD-MA| |
