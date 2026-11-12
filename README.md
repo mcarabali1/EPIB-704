@@ -106,8 +106,8 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |	Lecture 14 - Propensity score continued (pdf only, html also in Lec 13) |[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/0afff5df80580cb16fb6dd31978f6d2d5e9a2c06/Slides%202026/L14_Propensity%20Scores.pdf) |
 |	Lecture 15 - Matching and conditional Logistic Regression |[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/3834a7d8fd097db2de860d81d4ccb2aea75d362f/L15_EPIB704_Matching_and_conditional_LR_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/0afff5df80580cb16fb6dd31978f6d2d5e9a2c06/Slides%202026/L15_Matching%20&%20Conditional%20Regression.pdf) |
 |	Lecture 16 - Poisson Regression |[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/43e7cd3a146a7d38c0694e57dd2cc073a60e7038/L16_Poisson_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/fc337a1e6c09dae0b56d10f0db946b951a05901f/Slides%202026/L16_Poisson%20Regression.pdf) |
-|	Lecture 17 - Correlated Data* / IPD-MA| |
-|	Lecture 18 - Introduction to Cluster/Hierarchical Models | |
+|	Lecture 17 - Correlated Data & Intro to Cluster/Hierarchical Models* (pdf only) / IPD-MA |[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/e50896a7f98fb5c66e5af1ce2dd783e7c2eb35d4/Slides%202026/L17_Correlated_Data.pdf) |
+|	Lecture 18 - Effect Measure Modification & Interaction (I)  | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/5d9ee601b17bd264e22228ebea9e6c5cad392e6a/L17_EPIB704_Interaction1_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/e50896a7f98fb5c66e5af1ce2dd783e7c2eb35d4/Slides%202026/L18_Effect%20Measure%20Modification%20and%20Interaction.pdf)|
 |	Lecture 19 - Effect Measure Modification & Interaction (I) | |
 |	Lecture 20 - Effect Measure Modification & Interaction (II)| |
 |	Lecture 21 - Selection bias - core concepts| |
