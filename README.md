@@ -108,14 +108,14 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |	Lecture 16 - Poisson Regression |[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/43e7cd3a146a7d38c0694e57dd2cc073a60e7038/L16_Poisson_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/fc337a1e6c09dae0b56d10f0db946b951a05901f/Slides%202026/L16_Poisson%20Regression.pdf) |
 |	Lecture 17 - Correlated Data & Intro to Cluster/Hierarchical Models* (pdf only) / IPD-MA |[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/e50896a7f98fb5c66e5af1ce2dd783e7c2eb35d4/Slides%202026/L17_Correlated_Data.pdf) |
 |	Lecture 18 - Effect Measure Modification & Interaction (I)  | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/5d9ee601b17bd264e22228ebea9e6c5cad392e6a/L17_EPIB704_Interaction1_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/e50896a7f98fb5c66e5af1ce2dd783e7c2eb35d4/Slides%202026/L18_Effect%20Measure%20Modification%20and%20Interaction.pdf)|
-|	Lecture 19 - Effect Measure Modification & Interaction (I) | |
-|	Lecture 20 - Effect Measure Modification & Interaction (II)| |
-|	Lecture 21 - Selection bias - core concepts| |
-|	Lecture 22 - Measurement error - Core concepts| |
-|	Lecture 23 - Model building/selection | |
-|	Lecture 24 - Target Trial| |
-|	Lecture 25 - Introduction to Quasi-Experimental Designs| |
-|	Lecture 26 - Misc /Data visualizations| |
+|	Lecture 19 - Effect Measure Modification & Interaction (II) | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/402eaca7e69b9f357cb083325f714b660eb66ee9/L18_EPIB704_Interaction2_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/316371cb61eb49093173cbb2c1e6d9f7e36e0b7f/Slides%202026/L19_Effect%20Measure%20Modification%20and%20Interaction_Part2.pdf) |
+|	Lecture 20 - Selection Bias - Core Concepts| |
+|	Lecture 21 - Measurement Error - Core Concepts| |
+|	Lecture 22 - Target Trial Emulation| |
+|	Lecture 23 - | |
+|	Lecture 24 - | |
+|	Lecture 25 - | |
+|	Lecture 26 - s| |
 
 
 # Data for Assignments 
