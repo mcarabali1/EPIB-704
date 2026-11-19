@@ -109,13 +109,13 @@ We have pre-selected a list of topics to go through the 13 weeks-long course. Ea
 |	Lecture 17 - Correlated Data & Intro to Cluster/Hierarchical Models* (pdf only) / IPD-MA |[pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/e50896a7f98fb5c66e5af1ce2dd783e7c2eb35d4/Slides%202026/L17_Correlated_Data.pdf) |
 |	Lecture 18 - Effect Measure Modification & Interaction (I)  | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/5d9ee601b17bd264e22228ebea9e6c5cad392e6a/L17_EPIB704_Interaction1_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/e50896a7f98fb5c66e5af1ce2dd783e7c2eb35d4/Slides%202026/L18_Effect%20Measure%20Modification%20and%20Interaction.pdf)|
 |	Lecture 19 - Effect Measure Modification & Interaction (II) | [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/402eaca7e69b9f357cb083325f714b660eb66ee9/L18_EPIB704_Interaction2_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/316371cb61eb49093173cbb2c1e6d9f7e36e0b7f/Slides%202026/L19_Effect%20Measure%20Modification%20and%20Interaction_Part2.pdf) |
-|	Lecture 20 - Selection Bias - Core Concepts| |
-|	Lecture 21 - Measurement Error - Core Concepts| |
-|	Lecture 22 - Target Trial Emulation| |
-|	Lecture 23 - | |
+|	Lecture 20 - Selection Bias - Core Concepts| [html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/d5987ca6788c8b4890d8e75cf6043adf3ceb24c2/L20_EPIB704_Selection_Bias_26.html) ; [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/2f0f050367e2d02b34d4c5367b9eecbf838e2cb7/Slides%202026/L20_Selection%20Bias-%20Core%20concepts.pdf)|
+|	Lecture 21 - Measurement Error - Core Concepts|[html](https://rawcdn.githack.com/ortizbrizuela/internal-use-only/d5987ca6788c8b4890d8e75cf6043adf3ceb24c2/L21_EPIB704_Measurement_Error_26.html); [pdf](https://rawcdn.githack.com/mcarabali1/EPIB-704/2f0f050367e2d02b34d4c5367b9eecbf838e2cb7/Slides%202026/L21_Measurement%20Error%20-%20Core%20concepts.pdf) |
+|	Lecture 22 - Target Trial Emulation (pdf only)| |
+|	Lecture 23 - Intro to Quasi-Experiment Designs| |
 |	Lecture 24 - | |
 |	Lecture 25 - | |
-|	Lecture 26 - s| |
+|	Lecture 26 - | |
 
 
 # Data for Assignments 
